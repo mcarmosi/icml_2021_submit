@@ -1,0 +1,61 @@
+,base_estimator,density,learning_rate,n_estimators,cv_score_avg,cv_score_std,privacy,epsilon,delta
+0,"DPRandomForest(dp_epsilon=0.2, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_epsilon=1, labeling_budget_ratio=0.5,
+               max_depth=14, max_random_trees=5, max_splits=30)",0.25,0.25,5,0.6889560762576636,0.025835246948596687,"(1, 0)-DP",1.0,0
+1,"DPRandomForest(dp_zeta=6.718736877467037e-05, extra_random=False,
+               global_epsilon=1, labeling_budget_ratio=0.5, max_depth=14,
+               max_random_trees=5, max_splits=30)",0.25,0.25,10,0.7045435458133871,0.014798103767820635,"(1, 0)-DP",1.0,0
+2,"DPRandomForest(dp_epsilon=0.06666666666666667, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_epsilon=1, labeling_budget_ratio=0.5,
+               max_depth=14, max_random_trees=5, max_splits=30)",0.25,0.25,15,0.7258587385571513,0.017253750313599082,"(1, 0)-DP",1.0,0
+3,"DPRandomForest(dp_epsilon=0.05, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_epsilon=1, labeling_budget_ratio=0.5,
+               max_depth=14, max_random_trees=5, max_splits=30)",0.25,0.25,20,0.7706391198454691,0.020675268467484603,"(1, 0)-DP",1.0,0
+4,"DPRandomForest(dp_epsilon=0.15, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_epsilon=0.75,
+               labeling_budget_ratio=0.5, max_depth=14, max_random_trees=5,
+               max_splits=30)",0.25,0.25,5,0.6947509868144788,0.034478340806575004,"(0.75, 0)-DP",0.75,0
+5,"DPRandomForest(dp_epsilon=0.075, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_epsilon=0.75,
+               labeling_budget_ratio=0.5, max_depth=14, max_random_trees=5,
+               max_splits=30)",0.25,0.25,10,0.7110775174267238,0.01747948515198373,"(0.75, 0)-DP",0.75,0
+6,"DPRandomForest(dp_epsilon=0.05, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_epsilon=0.75,
+               labeling_budget_ratio=0.5, max_depth=14, max_random_trees=5,
+               max_splits=30)",0.25,0.25,15,0.697572856303015,0.02696989191793896,"(0.75, 0)-DP",0.75,0
+7,"DPRandomForest(dp_epsilon=0.0375, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_epsilon=0.75,
+               labeling_budget_ratio=0.5, max_depth=14, max_random_trees=5,
+               max_splits=30)",0.25,0.25,20,0.7150415721844292,0.02662974984770034,"(0.75, 0)-DP",0.75,0
+8,"DPRandomForest(dp_epsilon=0.08731078857878784, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_delta='sLIN', global_epsilon=1,
+               labeling_budget_ratio=0.5, max_depth=14, max_random_trees=5,
+               max_splits=30)",0.25,0.25,5,0.6685479129923574,0.006160251893085861,"(1, sLIN)-DP",1.0,sLIN
+9,"DPRandomForest(dp_epsilon=0.06176845958753349, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_delta='sLIN', global_epsilon=1,
+               labeling_budget_ratio=0.5, max_depth=14, max_random_trees=5,
+               max_splits=30)",0.25,0.25,10,0.7225833543293861,0.02906695361554616,"(1, sLIN)-DP",1.0,sLIN
+10,"DPRandomForest(dp_epsilon=0.05044462338925321, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_delta='sLIN', global_epsilon=1,
+               labeling_budget_ratio=0.5, max_depth=14, max_random_trees=5,
+               max_splits=30)",0.25,0.25,15,0.7030654237003444,0.01685474189791711,"(1, sLIN)-DP",1.0,sLIN
+11,"DPRandomForest(dp_epsilon=0.043691917766944706, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_delta='sLIN', global_epsilon=1,
+               labeling_budget_ratio=0.5, max_depth=14, max_random_trees=5,
+               max_splits=30)",0.25,0.25,20,0.7356009070294786,0.02199087073471458,"(1, sLIN)-DP",1.0,sLIN
+12,"DPRandomForest(dp_epsilon=0.06614306505135142, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_delta='sLIN', global_epsilon=0.75,
+               labeling_budget_ratio=0.5, max_depth=14, max_random_trees=5,
+               max_splits=30)",0.25,0.25,5,0.6708322835306961,0.007477632688710036,"(0.75, sLIN)-DP",0.75,sLIN
+13,"DPRandomForest(dp_epsilon=0.046783527964601, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_delta='sLIN', global_epsilon=0.75,
+               labeling_budget_ratio=0.5, max_depth=14, max_random_trees=5,
+               max_splits=30)",0.25,0.25,10,0.6935752078609221,0.028005862126933956,"(0.75, sLIN)-DP",0.75,sLIN
+14,"DPRandomForest(dp_epsilon=0.038203369054199736, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_delta='sLIN', global_epsilon=0.75,
+               labeling_budget_ratio=0.5, max_depth=14, max_random_trees=5,
+               max_splits=30)",0.25,0.25,15,0.7169900058788947,0.02051316029146733,"(0.75, sLIN)-DP",0.75,sLIN
+15,"DPRandomForest(dp_epsilon=0.033087545177854595, dp_zeta=6.718736877467037e-05,
+               extra_random=False, global_delta='sLIN', global_epsilon=0.75,
+               labeling_budget_ratio=0.5, max_depth=14, max_random_trees=5,
+               max_splits=30)",0.25,0.25,20,0.7317376333249349,0.02119741520195889,"(0.75, sLIN)-DP",0.75,sLIN

@@ -1,0 +1,105 @@
+,base_estimator,density,learning_rate,n_estimators,cv_score_avg,cv_score_std,privacy,epsilon,delta
+0,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=8.398421096833795e-05, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.5,5,0.8189132443100696,0.009322383607103081,"(1, 0)-DP",1.0,0
+1,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=8.398421096833795e-05, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.5,10,0.8353573528176703,0.006678007056838493,"(1, 0)-DP",1.0,0
+2,"DPTopDownTree(dp_epsilon=0.06666666666666667, dp_zeta=8.398421096833795e-05,
+              global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.5,15,0.8465608465608465,0.005915970862637529,"(1, 0)-DP",1.0,0
+3,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=8.398421096833795e-05, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.5,20,0.8594776182077769,0.006665066563785025,"(1, 0)-DP",1.0,0
+4,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=8.398421096833795e-05, global_epsilon=1,
+              max_depth=10)",0.2,0.5,5,0.850121777105904,0.0043356030414486695,"(1, 0)-DP",1.0,0
+5,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=8.398421096833795e-05, global_epsilon=1,
+              max_depth=10)",0.2,0.5,10,0.8667338540354412,0.0030689995721659823,"(1, 0)-DP",1.0,0
+6,"DPTopDownTree(dp_epsilon=0.06666666666666667, dp_zeta=8.398421096833795e-05,
+              global_epsilon=1, max_depth=10)",0.2,0.5,15,0.8769967246157723,0.002771020828393535,"(1, 0)-DP",1.0,0
+7,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=8.398421096833795e-05, global_epsilon=1,
+              max_depth=10)",0.2,0.5,20,0.878575627781977,0.002576769175404915,"(1, 0)-DP",1.0,0
+8,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.5,5,0.8189132443100696,0.009322383607103081,"(0.75, 0)-DP",0.75,0
+9,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.5,10,0.8384983623078861,0.007980886604732902,"(0.75, 0)-DP",0.75,0
+10,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.5,15,0.8485932644662804,0.007754321823355863,"(0.75, 0)-DP",0.75,0
+11,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.5,20,0.8575123876711179,0.005991459745124014,"(0.75, 0)-DP",0.75,0
+12,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.75, max_depth=10)",0.2,0.5,5,0.8495002939447385,0.004437355678432296,"(0.75, 0)-DP",0.75,0
+13,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.75, max_depth=10)",0.2,0.5,10,0.8659779961367262,0.002778544987889767,"(0.75, 0)-DP",0.75,0
+14,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.75, max_depth=10)",0.2,0.5,15,0.8757537582934407,0.0024005972586526704,"(0.75, 0)-DP",0.75,0
+15,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.75, max_depth=10)",0.2,0.5,20,0.8796338288401779,0.004525307454192508,"(0.75, 0)-DP",0.75,0
+16,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.05, max_depth=3, max_splits=3)",0.2,0.5,5,0.8190812127320063,0.009179347474845669,"(0.05, 0)-DP",0.05,0
+17,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.05, max_depth=3, max_splits=3)",0.2,0.5,10,0.8349878222894095,0.012086889065052227,"(0.05, 0)-DP",0.05,0
+18,"DPTopDownTree(dp_epsilon=0.0033333333333333335, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.05, max_depth=3, max_splits=3)",0.2,0.5,15,0.8513311497438482,0.006682610526063769,"(0.05, 0)-DP",0.05,0
+19,"DPTopDownTree(dp_epsilon=0.0025, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.05, max_depth=3, max_splits=3)",0.2,0.5,20,0.8573276224069876,0.0035294957939707656,"(0.05, 0)-DP",0.05,0
+20,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.05, max_depth=10)",0.2,0.5,5,0.8536827076509615,0.003143478643564861,"(0.05, 0)-DP",0.05,0
+21,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.05, max_depth=10)",0.2,0.5,10,0.8575627781976989,0.005601438375362021,"(0.05, 0)-DP",0.05,0
+22,"DPTopDownTree(dp_epsilon=0.0033333333333333335, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.05, max_depth=10)",0.2,0.5,15,0.8586377760980936,0.002170240414053893,"(0.05, 0)-DP",0.05,0
+23,"DPTopDownTree(dp_epsilon=0.0025, dp_zeta=8.398421096833795e-05,
+              global_epsilon=0.05, max_depth=10)",0.2,0.5,20,0.8568069202989838,0.004937528831565443,"(0.05, 0)-DP",0.05,0
+24,"DPTopDownTree(dp_epsilon=0.08731078857878784, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.5,5,0.8189132443100696,0.009322383607103081,"(1, sLIN)-DP",1.0,sLIN
+25,"DPTopDownTree(dp_epsilon=0.06176845958753349, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.5,10,0.8353573528176703,0.006678007056838493,"(1, sLIN)-DP",1.0,sLIN
+26,"DPTopDownTree(dp_epsilon=0.05044462338925321, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.5,15,0.8456706139245822,0.007572302612880939,"(1, sLIN)-DP",1.0,sLIN
+27,"DPTopDownTree(dp_epsilon=0.043691917766944706, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.5,20,0.8613756613756614,0.002054165213230619,"(1, sLIN)-DP",1.0,sLIN
+28,"DPTopDownTree(dp_epsilon=0.08731078857878784, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.5,5,0.8489795918367348,0.00564618798520539,"(1, sLIN)-DP",1.0,sLIN
+29,"DPTopDownTree(dp_epsilon=0.06176845958753349, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.5,10,0.8655748719240781,0.0030012342688565566,"(1, sLIN)-DP",1.0,sLIN
+30,"DPTopDownTree(dp_epsilon=0.05044462338925321, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.5,15,0.8766943814562861,0.002306372193593046,"(1, sLIN)-DP",1.0,sLIN
+31,"DPTopDownTree(dp_epsilon=0.043691917766944706, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.5,20,0.8779541446208112,0.002168289518851773,"(1, sLIN)-DP",1.0,sLIN
+32,"DPTopDownTree(dp_epsilon=0.06614306505135142, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.5,5,0.8189132443100696,0.009322383607103081,"(0.75, sLIN)-DP",0.75,sLIN
+33,"DPTopDownTree(dp_epsilon=0.046783527964601, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.5,10,0.8401612496850592,0.00725876269034048,"(0.75, sLIN)-DP",0.75,sLIN
+34,"DPTopDownTree(dp_epsilon=0.038203369054199736, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.5,15,0.8478877970941463,0.007928109515411088,"(0.75, sLIN)-DP",0.75,sLIN
+35,"DPTopDownTree(dp_epsilon=0.033087545177854595, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.5,20,0.8577811371462165,0.006227212624830167,"(0.75, sLIN)-DP",0.75,sLIN
+36,"DPTopDownTree(dp_epsilon=0.06614306505135142, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.5,5,0.8472159234063996,0.0025448186019563653,"(0.75, sLIN)-DP",0.75,sLIN
+37,"DPTopDownTree(dp_epsilon=0.046783527964601, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.5,10,0.8624338624338623,0.0031727807718129287,"(0.75, sLIN)-DP",0.75,sLIN
+38,"DPTopDownTree(dp_epsilon=0.038203369054199736, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.5,15,0.8754682119761483,0.0031937860445285945,"(0.75, sLIN)-DP",0.75,sLIN
+39,"DPTopDownTree(dp_epsilon=0.033087545177854595, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.5,20,0.8777021919879063,0.0036836053203230627,"(0.75, sLIN)-DP",0.75,sLIN
+40,"DPTopDownTree(dp_epsilon=0.004537247390226039, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.05, max_depth=3,
+              max_splits=3)",0.2,0.5,5,0.819652305366591,0.008835617978286362,"(0.05, sLIN)-DP",0.05,sLIN
+41,"DPTopDownTree(dp_epsilon=0.0032083227885173066, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.05, max_depth=3,
+              max_splits=3)",0.2,0.5,10,0.8350718065003779,0.004852339964536767,"(0.05, sLIN)-DP",0.05,sLIN
+42,"DPTopDownTree(dp_epsilon=0.0026195861746379635, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.05, max_depth=3,
+              max_splits=3)",0.2,0.5,15,0.8477702191987907,0.007743799683716953,"(0.05, sLIN)-DP",0.05,sLIN
+43,"DPTopDownTree(dp_epsilon=0.0022686289938349345, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.05, max_depth=3,
+              max_splits=3)",0.2,0.5,20,0.854976064499874,0.0049706734786222305,"(0.05, sLIN)-DP",0.05,sLIN
+44,"DPTopDownTree(dp_epsilon=0.004537247390226039, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.05, max_depth=10)",0.2,0.5,5,0.8474174855127237,0.00341822960794282,"(0.05, sLIN)-DP",0.05,sLIN
+45,"DPTopDownTree(dp_epsilon=0.0032083227885173066, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.05, max_depth=10)",0.2,0.5,10,0.8520534139581759,0.0073455415939175355,"(0.05, sLIN)-DP",0.05,sLIN
+46,"DPTopDownTree(dp_epsilon=0.0026195861746379635, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.05, max_depth=10)",0.2,0.5,15,0.8535483329134124,0.006176671881521736,"(0.05, sLIN)-DP",0.05,sLIN
+47,"DPTopDownTree(dp_epsilon=0.0022686289938349345, dp_zeta=8.398421096833795e-05,
+              global_delta='sLIN', global_epsilon=0.05, max_depth=10)",0.2,0.5,20,0.8580666834635089,0.004958341327011041,"(0.05, sLIN)-DP",0.05,sLIN

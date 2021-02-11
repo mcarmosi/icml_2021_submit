@@ -1,0 +1,1888 @@
+,base_estimator,density,learning_rate,n_estimators,cv_score_avg,cv_score_std,privacy,epsilon,delta
+0,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.1,0.1,5,0.8117074818422123,0.004127454711777708,"(2, 0)-DP",2.0,0
+1,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.1,0.1,10,0.8195389932665382,0.005530878320171226,"(2, 0)-DP",2.0,0
+2,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.1,0.1,20,0.8260498139989159,0.00570204892798312,"(2, 0)-DP",2.0,0
+3,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=10)",0.1,0.1,5,0.833881264120785,0.005859984151431215,"(2, 0)-DP",2.0,0
+4,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=10)",0.1,0.1,10,0.8385493471571316,0.005074395852356873,"(2, 0)-DP",2.0,0
+5,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=10)",0.1,0.1,20,0.8404228115305961,0.004811789661904606,"(2, 0)-DP",2.0,0
+6,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.1,0.25,5,0.8134886294317433,0.002278847501302237,"(2, 0)-DP",2.0,0
+7,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.1,0.25,10,0.837597249273896,0.003595094452687052,"(2, 0)-DP",2.0,0
+8,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.1,0.25,20,0.8396242810164966,0.004075458570384071,"(2, 0)-DP",2.0,0
+9,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=10)",0.1,0.25,5,0.8392864714721002,0.004510847709682601,"(2, 0)-DP",2.0,0
+10,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=10)",0.1,0.25,10,0.8408834146109596,0.0042012184807086565,"(2, 0)-DP",2.0,0
+11,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=10)",0.1,0.25,20,0.8414362307326378,0.00487850356342612,"(2, 0)-DP",2.0,0
+12,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.1,0.5,5,0.8264490674670316,0.0042951699604708155,"(2, 0)-DP",2.0,0
+13,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.1,0.5,10,0.8339732508145682,0.0034461927179719265,"(2, 0)-DP",2.0,0
+14,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.1,0.5,20,0.8343420133839295,0.008414666310378797,"(2, 0)-DP",2.0,0
+15,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=10)",0.1,0.5,5,0.8356317227574712,0.0038502443871543156,"(2, 0)-DP",2.0,0
+16,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=10)",0.1,0.5,10,0.8347102619557709,0.005905821383268031,"(2, 0)-DP",2.0,0
+17,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=10)",0.1,0.5,20,0.8356317274730447,0.00614207508246935,"(2, 0)-DP",2.0,0
+18,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.1,0.75,5,0.8342496258663923,0.0021351923393911876,"(2, 0)-DP",2.0,0
+19,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.1,0.75,10,0.8236847840889757,0.005163081194944332,"(2, 0)-DP",2.0,0
+20,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.1,0.75,20,0.8113085160240848,0.0086346494686702,"(2, 0)-DP",2.0,0
+21,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=10)",0.1,0.75,5,0.8337889992081609,0.00560838387429588,"(2, 0)-DP",2.0,0
+22,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=10)",0.1,0.75,10,0.8073465429752854,0.0176473609324377,"(2, 0)-DP",2.0,0
+23,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=2,
+              max_depth=10)",0.1,0.75,20,0.8021249977836804,0.009467938851595418,"(2, 0)-DP",2.0,0
+24,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.1,0.1,5,0.8117074818422123,0.004127454711777708,"(1, 0)-DP",1.0,0
+25,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.1,0.1,10,0.8189861677137127,0.004861666235371298,"(1, 0)-DP",1.0,0
+26,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.1,0.1,20,0.8282304838442563,0.007050664526908257,"(1, 0)-DP",1.0,0
+27,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=10)",0.1,0.1,5,0.8349562121268708,0.005282127863927025,"(1, 0)-DP",1.0,0
+28,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=10)",0.1,0.1,10,0.8380888006636511,0.005065293034698468,"(1, 0)-DP",1.0,0
+29,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=10)",0.1,0.1,20,0.8380887063521794,0.004853756629526539,"(1, 0)-DP",1.0,0
+30,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.1,0.25,5,0.8124444033875171,0.0018113721051485662,"(1, 0)-DP",1.0,0
+31,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.1,0.25,10,0.838057937234584,0.0038368763428000318,"(1, 0)-DP",1.0,0
+32,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.1,0.25,20,0.8385186204796984,0.0034725399333435407,"(1, 0)-DP",1.0,0
+33,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=10)",0.1,0.25,5,0.8388564300240946,0.002598880771119471,"(1, 0)-DP",1.0,0
+34,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=10)",0.1,0.25,10,0.8372902795806988,0.00584891702737272,"(1, 0)-DP",1.0,0
+35,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=10)",0.1,0.25,20,0.8414054899084841,0.0034227372530719127,"(1, 0)-DP",1.0,0
+36,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.1,0.5,5,0.8264490674670316,0.0042951699604708155,"(1, 0)-DP",1.0,0
+37,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.1,0.5,10,0.835263205397936,0.004585946152121348,"(1, 0)-DP",1.0,0
+38,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.1,0.5,20,0.8285374110972914,0.004774670538967624,"(1, 0)-DP",1.0,0
+39,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=10)",0.1,0.5,5,0.8387336270569803,0.00395616181736304,"(1, 0)-DP",1.0,0
+40,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=10)",0.1,0.5,10,0.8282302339188566,0.007457043814194297,"(1, 0)-DP",1.0,0
+41,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=10)",0.1,0.5,20,0.8271862059287208,0.00824367887666824,"(1, 0)-DP",1.0,0
+42,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.1,0.75,5,0.8333898070425017,0.0033274807158521686,"(1, 0)-DP",1.0,0
+43,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.1,0.75,10,0.815177276329971,0.03348931144284722,"(1, 0)-DP",1.0,0
+44,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.1,0.75,20,0.8249138841953213,0.012096056464593247,"(1, 0)-DP",1.0,0
+45,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=10)",0.1,0.75,5,0.8370445086013948,0.0037369819146680235,"(1, 0)-DP",1.0,0
+46,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=10)",0.1,0.75,10,0.8222722623171725,0.012070454047290867,"(1, 0)-DP",1.0,0
+47,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694, global_epsilon=1,
+              max_depth=10)",0.1,0.75,20,0.8174500507584339,0.017728460639819317,"(1, 0)-DP",1.0,0
+48,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.1,0.1,5,0.8117074818422123,0.004127454711777708,"(0.75, 0)-DP",0.75,0
+49,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.1,0.1,10,0.8186483298758749,0.00445678385496588,"(0.75, 0)-DP",0.75,0
+50,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.1,0.1,20,0.8316086453062501,0.005150253886296659,"(0.75, 0)-DP",0.75,0
+51,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=10)",0.1,0.1,5,0.8364303051428799,0.004708563756784058,"(0.75, 0)-DP",0.75,0
+52,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=10)",0.1,0.1,10,0.8381195131943635,0.005588349277893447,"(0.75, 0)-DP",0.75,0
+53,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=10)",0.1,0.1,20,0.8363381864130366,0.005657953395987124,"(0.75, 0)-DP",0.75,0
+54,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.1,0.25,5,0.8117073026504164,0.0009190932904108387,"(0.75, 0)-DP",0.75,0
+55,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.1,0.25,10,0.8379657996424463,0.0034551497588071133,"(0.75, 0)-DP",0.75,0
+56,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.1,0.25,20,0.8390714366013767,0.003096538754816681,"(0.75, 0)-DP",0.75,0
+57,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=10)",0.1,0.25,5,0.8370137394837993,0.002908502240701958,"(0.75, 0)-DP",0.75,0
+58,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=10)",0.1,0.25,10,0.8391942348529176,0.0044883030701552695,"(0.75, 0)-DP",0.75,0
+59,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=10)",0.1,0.25,20,0.8375972681361903,0.00638165655610832,"(0.75, 0)-DP",0.75,0
+60,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.1,0.5,5,0.8264490674670316,0.0042951699604708155,"(0.75, 0)-DP",0.75,0
+61,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.1,0.5,10,0.8333590332093326,0.003709144095846049,"(0.75, 0)-DP",0.75,0
+62,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.1,0.5,20,0.8339118964867467,0.007247582873579294,"(0.75, 0)-DP",0.75,0
+63,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=10)",0.1,0.5,5,0.835693308148398,0.005721826795093854,"(0.75, 0)-DP",0.75,0
+64,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=10)",0.1,0.5,10,0.8314243323973862,0.011580930967573308,"(0.75, 0)-DP",0.75,0
+65,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=10)",0.1,0.5,20,0.8305952261042082,0.006362957547053663,"(0.75, 0)-DP",0.75,0
+66,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.1,0.75,5,0.8331748193275139,0.0032556102381678938,"(0.75, 0)-DP",0.75,0
+67,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.1,0.75,10,0.8250361590181949,0.006669532853008873,"(0.75, 0)-DP",0.75,0
+68,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.1,0.75,20,0.815392315916268,0.013840626169988077,"(0.75, 0)-DP",0.75,0
+69,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=10)",0.1,0.75,5,0.8367680392380992,0.002325838169372379,"(0.75, 0)-DP",0.75,0
+70,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=10)",0.1,0.75,10,0.8244836494087991,0.007158847632944705,"(0.75, 0)-DP",0.75,0
+71,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.75, max_depth=10)",0.1,0.75,20,0.8280458502763892,0.01166524021913566,"(0.75, 0)-DP",0.75,0
+72,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=0.5,
+              max_depth=3, max_splits=3)",0.1,0.1,5,0.8117074818422123,0.004127454711777708,"(0.5, 0)-DP",0.5,0
+73,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.1,0.1,10,0.8197231930016361,0.00468463419437132,"(0.5, 0)-DP",0.5,0
+74,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.1,0.1,20,0.8296429820381915,0.005203681352227021,"(0.5, 0)-DP",0.5,0
+75,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=0.5,
+              max_depth=10)",0.1,0.1,5,0.8339120473851012,0.005574902649018811,"(0.5, 0)-DP",0.5,0
+76,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=10)",0.1,0.1,10,0.8360003721530667,0.005456026953665898,"(0.5, 0)-DP",0.5,0
+77,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=10)",0.1,0.1,20,0.8333898541982375,0.005424935435239912,"(0.5, 0)-DP",0.5,0
+78,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=0.5,
+              max_depth=3, max_splits=3)",0.1,0.25,5,0.8127515852815254,0.0027282936020843434,"(0.5, 0)-DP",0.5,0
+79,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.1,0.25,10,0.8370444284366438,0.004167687318514111,"(0.5, 0)-DP",0.5,0
+80,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.1,0.25,20,0.838549432037456,0.004597344162686868,"(0.5, 0)-DP",0.5,0
+81,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=0.5,
+              max_depth=10)",0.1,0.25,5,0.8385493707349996,0.005115252696995822,"(0.5, 0)-DP",0.5,0
+82,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=10)",0.1,0.25,10,0.8364609044998266,0.003906857242786917,"(0.5, 0)-DP",0.5,0
+83,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=10)",0.1,0.25,20,0.833205616738551,0.00727321655316309,"(0.5, 0)-DP",0.5,0
+84,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=0.5,
+              max_depth=3, max_splits=3)",0.1,0.5,5,0.8274011559191201,0.005398155728199118,"(0.5, 0)-DP",0.5,0
+85,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.1,0.5,10,0.8337583102553163,0.0029994164946911673,"(0.5, 0)-DP",0.5,0
+86,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.1,0.5,20,0.8311480563726074,0.006980347928964934,"(0.5, 0)-DP",0.5,0
+87,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=0.5,
+              max_depth=10)",0.1,0.5,5,0.8371980523926632,0.0035326604614869914,"(0.5, 0)-DP",0.5,0
+88,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=10)",0.1,0.5,10,0.8312704019290844,0.013646231742816345,"(0.5, 0)-DP",0.5,0
+89,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=10)",0.1,0.5,20,0.8244831637047205,0.006339839501391913,"(0.5, 0)-DP",0.5,0
+90,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=0.5,
+              max_depth=3, max_splits=3)",0.1,0.75,5,0.8344954581481527,0.004795460861661156,"(0.5, 0)-DP",0.5,0
+91,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.1,0.75,10,0.8136419468754799,0.03315971994746661,"(0.5, 0)-DP",0.5,0
+92,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.1,0.75,20,0.8083899673720033,0.01766541129683884,"(0.5, 0)-DP",0.5,0
+93,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0003071158748195694, global_epsilon=0.5,
+              max_depth=10)",0.1,0.75,5,0.8336968238914346,0.002780260354047537,"(0.5, 0)-DP",0.5,0
+94,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=10)",0.1,0.75,10,0.8278920424130005,0.0038077695346680172,"(0.5, 0)-DP",0.5,0
+95,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.5, max_depth=10)",0.1,0.75,20,0.8210436714927735,0.013180667178350315,"(0.5, 0)-DP",0.5,0
+96,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.1,0.1,5,0.81179961943435,0.00419667132127905,"(0.25, 0)-DP",0.25,0
+97,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.1,0.1,10,0.8195082713046785,0.005565420620726166,"(0.25, 0)-DP",0.25,0
+98,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.1,0.1,20,0.8302880725036413,0.0061038187307160645,"(0.25, 0)-DP",0.25,0
+99,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=10)",0.1,0.1,5,0.8285988880300257,0.005118554648576757,"(0.25, 0)-DP",0.25,0
+100,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=10)",0.1,0.1,10,0.8285372507677897,0.0024163303593708932,"(0.25, 0)-DP",0.25,0
+101,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=10)",0.1,0.1,20,0.8210743745923386,0.004639707019592968,"(0.25, 0)-DP",0.25,0
+102,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.1,0.25,5,0.8148400373699776,0.006055377498604804,"(0.25, 0)-DP",0.25,0
+103,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.1,0.25,10,0.8363380355146821,0.005272709113794073,"(0.25, 0)-DP",0.25,0
+104,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.1,0.25,20,0.8370444472989382,0.004171438863490738,"(0.25, 0)-DP",0.25,0
+105,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=10)",0.1,0.25,5,0.8340039539141335,0.003263304419982356,"(0.25, 0)-DP",0.25,0
+106,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=10)",0.1,0.25,10,0.8332054941336379,0.005195623358374769,"(0.25, 0)-DP",0.25,0
+107,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=10)",0.1,0.25,20,0.8274934585563327,0.008941473621601272,"(0.25, 0)-DP",0.25,0
+108,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.1,0.5,5,0.8279539814719457,0.006218997579980915,"(0.25, 0)-DP",0.25,0
+109,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.1,0.5,10,0.834034699453861,0.004076944969944949,"(0.25, 0)-DP",0.25,0
+110,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.1,0.5,20,0.8354778300137582,0.00533475616798681,"(0.25, 0)-DP",0.25,0
+111,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=10)",0.1,0.5,5,0.8353245880191988,0.006174132012599222,"(0.25, 0)-DP",0.25,0
+112,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=10)",0.1,0.5,10,0.8329288550096934,0.008120413817092576,"(0.25, 0)-DP",0.25,0
+113,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=10)",0.1,0.5,20,0.8262034756795236,0.008783286699220051,"(0.25, 0)-DP",0.25,0
+114,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.1,0.75,5,0.8341575590078584,0.0027679610674401934,"(0.25, 0)-DP",0.25,0
+115,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.1,0.75,10,0.827462670576443,0.009276579756195235,"(0.25, 0)-DP",0.25,0
+116,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.1,0.75,20,0.8307797370671622,0.010670857664274766,"(0.25, 0)-DP",0.25,0
+117,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=10)",0.1,0.75,5,0.8344033818584717,0.005316845085794687,"(0.25, 0)-DP",0.25,0
+118,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=10)",0.1,0.75,10,0.8195397949140464,0.019588442844505744,"(0.25, 0)-DP",0.25,0
+119,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.25, max_depth=10)",0.1,0.75,20,0.792511475819859,0.027780778608965412,"(0.25, 0)-DP",0.25,0
+120,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.1,0.1,5,0.8120760322107629,0.004594163186709633,"(0.1, 0)-DP",0.1,0
+121,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.1,0.1,10,0.821504774423936,0.009290222206653247,"(0.1, 0)-DP",0.1,0
+122,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.1,0.1,20,0.8132737784683893,0.0064434113346181175,"(0.1, 0)-DP",0.1,0
+123,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=10)",0.1,0.1,5,0.8092193330217281,0.00984554579918259,"(0.1, 0)-DP",0.1,0
+124,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=10)",0.1,0.1,10,0.8093730795826606,0.010936610349718098,"(0.1, 0)-DP",0.1,0
+125,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=10)",0.1,0.1,20,0.8043979985596751,0.006042803043867216,"(0.1, 0)-DP",0.1,0
+126,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.1,0.25,5,0.8129358604658006,0.0059313399566014975,"(0.1, 0)-DP",0.1,0
+127,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.1,0.25,10,0.8315470787776178,0.003360178656546005,"(0.1, 0)-DP",0.1,0
+128,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.1,0.25,20,0.8278309332950051,0.005886834731208922,"(0.1, 0)-DP",0.1,0
+129,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=10)",0.1,0.25,5,0.8198151183929628,0.0017086351203524836,"(0.1, 0)-DP",0.1,0
+130,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=10)",0.1,0.25,10,0.8112773932384713,0.006916107549401113,"(0.1, 0)-DP",0.1,0
+131,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=10)",0.1,0.25,20,0.8205214594436152,0.006912892388711827,"(0.1, 0)-DP",0.1,0
+132,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.1,0.5,5,0.82669492332666,0.008125943672586103,"(0.1, 0)-DP",0.1,0
+133,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.1,0.5,10,0.8288750461654653,0.008518598540166735,"(0.1, 0)-DP",0.1,0
+134,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.1,0.5,20,0.8305031875391157,0.00866794712625483,"(0.1, 0)-DP",0.1,0
+135,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=10)",0.1,0.5,5,0.8177576994942264,0.012981590615143626,"(0.1, 0)-DP",0.1,0
+136,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=10)",0.1,0.5,10,0.8208904813695233,0.010297483094507417,"(0.1, 0)-DP",0.1,0
+137,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=10)",0.1,0.5,20,0.8024940574341773,0.01337116303049245,"(0.1, 0)-DP",0.1,0
+138,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.1,0.75,5,0.8326223521582803,0.008904700067362404,"(0.1, 0)-DP",0.1,0
+139,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.1,0.75,10,0.828475754972761,0.009294301496126426,"(0.1, 0)-DP",0.1,0
+140,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.1,0.75,20,0.8169603101489329,0.02284747260336348,"(0.1, 0)-DP",0.1,0
+141,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=10)",0.1,0.75,5,0.8324071239490403,0.007063217839822592,"(0.1, 0)-DP",0.1,0
+142,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=10)",0.1,0.75,10,0.781212400374077,0.041027741950063874,"(0.1, 0)-DP",0.1,0
+143,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0003071158748195694,
+              global_epsilon=0.1, max_depth=10)",0.1,0.75,20,0.8196307206037744,0.002923828116099817,"(0.1, 0)-DP",0.1,0
+144,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.2,0.1,5,0.8117074818422123,0.004127454711777708,"(2, 0)-DP",2.0,0
+145,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.2,0.1,10,0.8203067169384534,0.004725003743737045,"(2, 0)-DP",2.0,0
+146,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.2,0.1,20,0.8244527624018643,0.003957995686751299,"(2, 0)-DP",2.0,0
+147,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=10)",0.2,0.1,5,0.8336356346086884,0.006456374332082777,"(2, 0)-DP",2.0,0
+148,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=10)",0.2,0.1,10,0.8390100492645403,0.0048849558868952914,"(2, 0)-DP",2.0,0
+149,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=10)",0.2,0.1,20,0.8417740921483435,0.00416371143571232,"(2, 0)-DP",2.0,0
+150,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.2,0.25,5,0.8134886294317433,0.002278847501302237,"(2, 0)-DP",2.0,0
+151,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.2,0.25,10,0.8373208600753511,0.0038698543620232654,"(2, 0)-DP",2.0,0
+152,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.2,0.25,20,0.8387643395876928,0.004367053992442645,"(2, 0)-DP",2.0,0
+153,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=10)",0.2,0.25,5,0.8390407712263999,0.004463622055034629,"(2, 0)-DP",2.0,0
+154,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=10)",0.2,0.25,10,0.8412520309975399,0.004252774683488127,"(2, 0)-DP",2.0,0
+155,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=10)",0.2,0.25,20,0.8465037888690583,0.007117816964216856,"(2, 0)-DP",2.0,0
+156,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.2,0.5,5,0.8274011559191201,0.005398155728199118,"(2, 0)-DP",2.0,0
+157,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.2,0.5,10,0.8338197211700205,0.005255364035570582,"(2, 0)-DP",2.0,0
+158,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.2,0.5,20,0.8382728164913793,0.006186985728028966,"(2, 0)-DP",2.0,0
+159,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=10)",0.2,0.5,5,0.8388564913265512,0.0037650311959738277,"(2, 0)-DP",2.0,0
+160,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=10)",0.2,0.5,10,0.8354166831711742,0.005993694386917337,"(2, 0)-DP",2.0,0
+161,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=10)",0.2,0.5,20,0.8384263744293683,0.007116525564655176,"(2, 0)-DP",2.0,0
+162,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.2,0.75,5,0.8330826440107877,0.0037256826140742963,"(2, 0)-DP",2.0,0
+163,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.2,0.75,10,0.8233778521203672,0.004223338695635169,"(2, 0)-DP",2.0,0
+164,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.2,0.75,20,0.8254048508539527,0.008270331915679288,"(2, 0)-DP",2.0,0
+165,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=10)",0.2,0.75,5,0.834280291241369,0.007734912406863356,"(2, 0)-DP",2.0,0
+166,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=10)",0.2,0.75,10,0.8177884686118219,0.006349133489022389,"(2, 0)-DP",2.0,0
+167,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=2,
+              max_depth=10)",0.2,0.75,20,0.8293356445302553,0.007257436915936171,"(2, 0)-DP",2.0,0
+168,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.1,5,0.8117074818422123,0.004127454711777708,"(1, 0)-DP",1.0,0
+169,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.1,10,0.8203681419998785,0.004712935899596367,"(1, 0)-DP",1.0,0
+170,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.1,20,0.8239613619104638,0.004266268134729348,"(1, 0)-DP",1.0,0
+171,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=10)",0.2,0.1,5,0.8345570105300644,0.006969896245398402,"(1, 0)-DP",1.0,0
+172,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=10)",0.2,0.1,10,0.8381501172668837,0.004958401216378902,"(1, 0)-DP",1.0,0
+173,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=10)",0.2,0.1,20,0.841282748243826,0.004835050493440842,"(1, 0)-DP",1.0,0
+174,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.25,5,0.8134886294317433,0.002278847501302237,"(1, 0)-DP",1.0,0
+175,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.25,10,0.8374437101982013,0.003775928203265369,"(1, 0)-DP",1.0,0
+176,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.25,20,0.8395628418083507,0.0036277609950985455,"(1, 0)-DP",1.0,0
+177,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=10)",0.2,0.25,5,0.8392557542258141,0.004648847897835577,"(1, 0)-DP",1.0,0
+178,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=10)",0.2,0.25,10,0.8402998482339801,0.0025556504668801127,"(1, 0)-DP",1.0,0
+179,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=10)",0.2,0.25,20,0.8444767476953106,0.005389641020840295,"(1, 0)-DP",1.0,0
+180,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.5,5,0.8274011559191201,0.005398155728199118,"(1, 0)-DP",1.0,0
+181,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.5,10,0.8352017850520843,0.006324463563822956,"(1, 0)-DP",1.0,0
+182,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.5,20,0.8312399629016396,0.011202704246898147,"(1, 0)-DP",1.0,0
+183,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=10)",0.2,0.5,5,0.8366147312255097,0.007023009923312838,"(1, 0)-DP",1.0,0
+184,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=10)",0.2,0.5,10,0.8345567228800762,0.004754998999106747,"(1, 0)-DP",1.0,0
+185,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=10)",0.2,0.5,20,0.837781482018009,0.005620930885661082,"(1, 0)-DP",1.0,0
+186,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.75,5,0.8332361830864825,0.003571471058055836,"(1, 0)-DP",1.0,0
+187,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.75,10,0.82389996514248,0.0046863847369592255,"(1, 0)-DP",1.0,0
+188,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.2,0.75,20,0.8267255226836066,0.00852181327233979,"(1, 0)-DP",1.0,0
+189,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=10)",0.2,0.75,5,0.83633805909255,0.005767525472804353,"(1, 0)-DP",1.0,0
+190,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=10)",0.2,0.75,10,0.8284755993588329,0.005329722401237673,"(1, 0)-DP",1.0,0
+191,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847, global_epsilon=1,
+              max_depth=10)",0.2,0.75,20,0.8220263828796763,0.011089630828544614,"(1, 0)-DP",1.0,0
+192,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.1,5,0.8117074818422123,0.004127454711777708,"(0.75, 0)-DP",0.75,0
+193,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.1,10,0.8203067169384534,0.004725003743737045,"(0.75, 0)-DP",0.75,0
+194,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.1,20,0.8270633275124293,0.005372248431229374,"(0.75, 0)-DP",0.75,0
+195,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=10)",0.2,0.1,5,0.834188460161514,0.006523352585382252,"(0.75, 0)-DP",0.75,0
+196,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=10)",0.2,0.1,10,0.8393171887183863,0.005403979296946719,"(0.75, 0)-DP",0.75,0
+197,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=10)",0.2,0.1,20,0.841774078001623,0.004047120492208047,"(0.75, 0)-DP",0.75,0
+198,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.25,5,0.8136114606922991,0.00210995666727729,"(0.75, 0)-DP",0.75,0
+199,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.25,10,0.8371980099525009,0.0037219174013998287,"(0.75, 0)-DP",0.75,0
+200,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.25,20,0.8396242904476438,0.0039012184345989624,"(0.75, 0)-DP",0.75,0
+201,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=10)",0.2,0.25,5,0.8382115328971617,0.004134625677749813,"(0.75, 0)-DP",0.75,0
+202,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=10)",0.2,0.25,10,0.8406378416857458,0.005168285231092507,"(0.75, 0)-DP",0.75,0
+203,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=10)",0.2,0.25,20,0.8448760200257206,0.004858789393589826,"(0.75, 0)-DP",0.75,0
+204,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.5,5,0.8274011559191201,0.005398155728199118,"(0.75, 0)-DP",0.75,0
+205,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.5,10,0.8338811462314455,0.005367188863466002,"(0.75, 0)-DP",0.75,0
+206,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.5,20,0.8292131056352614,0.004712302271522631,"(0.75, 0)-DP",0.75,0
+207,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=10)",0.2,0.5,5,0.838150103120163,0.004073304115163816,"(0.75, 0)-DP",0.75,0
+208,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=10)",0.2,0.5,10,0.8384880777096345,0.009023353106042532,"(0.75, 0)-DP",0.75,0
+209,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=10)",0.2,0.5,20,0.8342189746381363,0.007364047978566862,"(0.75, 0)-DP",0.75,0
+210,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.75,5,0.8332361830864825,0.003571471058055836,"(0.75, 0)-DP",0.75,0
+211,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.75,10,0.8237464024889174,0.004752523339549587,"(0.75, 0)-DP",0.75,0
+212,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.2,0.75,20,0.821842197291299,0.009562355702426488,"(0.75, 0)-DP",0.75,0
+213,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=10)",0.2,0.75,5,0.8344952931030776,0.004436917853949199,"(0.75, 0)-DP",0.75,0
+214,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=10)",0.2,0.75,10,0.8161601527619492,0.008191050677699674,"(0.75, 0)-DP",0.75,0
+215,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.75, max_depth=10)",0.2,0.75,20,0.8221182045283841,0.008670313607934044,"(0.75, 0)-DP",0.75,0
+216,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=0.5,
+              max_depth=3, max_splits=3)",0.2,0.1,5,0.8117074818422123,0.004127454711777708,"(0.5, 0)-DP",0.5,0
+217,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.2,0.1,10,0.8200917433701866,0.004750765341083694,"(0.5, 0)-DP",0.5,0
+218,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.2,0.1,20,0.8242992044638753,0.003995937009407305,"(0.5, 0)-DP",0.5,0
+219,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=0.5,
+              max_depth=10)",0.2,0.1,5,0.8356625909021117,0.005593128299823679,"(0.5, 0)-DP",0.5,0
+220,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=10)",0.2,0.1,10,0.8398700048400647,0.005111133486930484,"(0.5, 0)-DP",0.5,0
+221,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=10)",0.2,0.1,20,0.8397470132500071,0.0032181419651525394,"(0.5, 0)-DP",0.5,0
+222,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=0.5,
+              max_depth=3, max_splits=3)",0.2,0.25,5,0.8134886294317433,0.002278847501302237,"(0.5, 0)-DP",0.5,0
+223,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.2,0.25,10,0.8376279853824762,0.0038005779959028084,"(0.5, 0)-DP",0.5,0
+224,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.2,0.25,20,0.8382422831524629,0.0047588735531999896,"(0.5, 0)-DP",0.5,0
+225,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=0.5,
+              max_depth=10)",0.2,0.25,5,0.8386415083271371,0.0048040105007530354,"(0.5, 0)-DP",0.5,0
+226,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=10)",0.2,0.25,10,0.8402691970057239,0.005624391879456531,"(0.5, 0)-DP",0.5,0
+227,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=10)",0.2,0.25,20,0.8422041147340547,0.005866614261752069,"(0.5, 0)-DP",0.5,0
+228,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=0.5,
+              max_depth=3, max_splits=3)",0.2,0.5,5,0.8274011559191201,0.005398155728199118,"(0.5, 0)-DP",0.5,0
+229,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.2,0.5,10,0.8352325070139439,0.005436816964326694,"(0.5, 0)-DP",0.5,0
+230,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.2,0.5,20,0.8299499092912266,0.007322020192687737,"(0.5, 0)-DP",0.5,0
+231,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=0.5,
+              max_depth=10)",0.2,0.5,5,0.8384572284272883,0.003365302502456577,"(0.5, 0)-DP",0.5,0
+232,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=10)",0.2,0.5,10,0.8369521210838575,0.00812546536267865,"(0.5, 0)-DP",0.5,0
+233,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=10)",0.2,0.5,20,0.8357238320561674,0.004064448518195768,"(0.5, 0)-DP",0.5,0
+234,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=0.5,
+              max_depth=3, max_splits=3)",0.2,0.75,5,0.8330826440107877,0.0037256826140742963,"(0.5, 0)-DP",0.5,0
+235,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.2,0.75,10,0.8241148962705849,0.0042728302676400785,"(0.5, 0)-DP",0.5,0
+236,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.2,0.75,20,0.8204295764924507,0.007853360020157444,"(0.5, 0)-DP",0.5,0
+237,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.0001535579374097847, global_epsilon=0.5,
+              max_depth=10)",0.2,0.75,5,0.8364916641862749,0.0067831002512322445,"(0.5, 0)-DP",0.5,0
+238,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=10)",0.2,0.75,10,0.8311784765377579,0.003662320955890469,"(0.5, 0)-DP",0.5,0
+239,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.5, max_depth=10)",0.2,0.75,20,0.8126282588857439,0.017431168283508176,"(0.5, 0)-DP",0.5,0
+240,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.2,0.1,5,0.8117074818422123,0.004127454711777708,"(0.25, 0)-DP",0.25,0
+241,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.2,0.1,10,0.8197538913856279,0.0045858807403533096,"(0.25, 0)-DP",0.25,0
+242,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.2,0.1,20,0.8265105821243546,0.006346496698977242,"(0.25, 0)-DP",0.25,0
+243,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=10)",0.2,0.1,5,0.8348333525728734,0.00515808410046453,"(0.25, 0)-DP",0.25,0
+244,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=10)",0.2,0.1,10,0.8380273378776375,0.005838904538361541,"(0.25, 0)-DP",0.25,0
+245,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=10)",0.2,0.1,20,0.8387951605765978,0.005398902853778586,"(0.25, 0)-DP",0.25,0
+246,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.2,0.25,5,0.8136114606922991,0.00210995666727729,"(0.25, 0)-DP",0.25,0
+247,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.2,0.25,10,0.8362461054077821,0.005579160394532692,"(0.25, 0)-DP",0.25,0
+248,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.2,0.25,20,0.8391022151501193,0.003857420245575904,"(0.25, 0)-DP",0.25,0
+249,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=10)",0.2,0.25,5,0.8380272577128863,0.0041334859934775686,"(0.25, 0)-DP",0.25,0
+250,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=10)",0.2,0.25,10,0.8397164846266643,0.005063468087087908,"(0.25, 0)-DP",0.25,0
+251,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=10)",0.2,0.25,20,0.8386721312619516,0.0034270127442167166,"(0.25, 0)-DP",0.25,0
+252,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.2,0.5,5,0.8274011559191201,0.005398155728199118,"(0.25, 0)-DP",0.25,0
+253,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.2,0.5,10,0.8352630592151551,0.005096690802479404,"(0.25, 0)-DP",0.25,0
+254,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.2,0.5,20,0.8361231185332982,0.004480289278183099,"(0.25, 0)-DP",0.25,0
+255,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=10)",0.2,0.5,5,0.8367067603594551,0.0049098741593310785,"(0.25, 0)-DP",0.25,0
+256,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=10)",0.2,0.5,10,0.8344339859309919,0.00784331925867706,"(0.25, 0)-DP",0.25,0
+257,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=10)",0.2,0.5,20,0.8362156192246012,0.008996653638058157,"(0.25, 0)-DP",0.25,0
+258,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.2,0.75,5,0.8332361830864825,0.003571471058055836,"(0.25, 0)-DP",0.25,0
+259,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.2,0.75,10,0.82423777940245,0.00501947850784699,"(0.25, 0)-DP",0.25,0
+260,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.2,0.75,20,0.829950173363347,0.0042018978754279806,"(0.25, 0)-DP",0.25,0
+261,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=10)",0.2,0.75,5,0.8336661255074429,0.00508048981801909,"(0.25, 0)-DP",0.25,0
+262,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=10)",0.2,0.75,10,0.8193547605224252,0.0059961863344295445,"(0.25, 0)-DP",0.25,0
+263,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.25, max_depth=10)",0.2,0.75,20,0.8172352846754045,0.01686524022328004,"(0.25, 0)-DP",0.25,0
+264,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.2,0.1,5,0.8117074818422123,0.004127454711777708,"(0.1, 0)-DP",0.1,0
+265,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.2,0.1,10,0.8197846039163406,0.004514530693169835,"(0.1, 0)-DP",0.1,0
+266,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.2,0.1,20,0.8309328328789405,0.0021267467867418623,"(0.1, 0)-DP",0.1,0
+267,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=10)",0.2,0.1,5,0.8322842785417637,0.005391568465624892,"(0.1, 0)-DP",0.1,0
+268,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=10)",0.2,0.1,10,0.8332670465155495,0.005854685981914417,"(0.1, 0)-DP",0.1,0
+269,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=10)",0.2,0.1,20,0.8265102944743663,0.002455946812899477,"(0.1, 0)-DP",0.1,0
+270,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.2,0.25,5,0.8136729612029013,0.0034378624452462542,"(0.1, 0)-DP",0.1,0
+271,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.2,0.25,10,0.8357239216520653,0.005975169441108404,"(0.1, 0)-DP",0.1,0
+272,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.2,0.25,20,0.8358161158310858,0.005461110733042638,"(0.1, 0)-DP",0.1,0
+273,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=10)",0.2,0.25,5,0.8359389565227888,0.00515037100377488,"(0.1, 0)-DP",0.1,0
+274,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=10)",0.2,0.25,10,0.8347718850712862,0.006431124856250056,"(0.1, 0)-DP",0.1,0
+275,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=10)",0.2,0.25,20,0.836123109102151,0.002888271547542441,"(0.1, 0)-DP",0.1,0
+276,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.2,0.5,5,0.8271860173057778,0.0023870737757334887,"(0.1, 0)-DP",0.1,0
+277,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.2,0.5,10,0.8364301400978048,0.0035637914272618467,"(0.1, 0)-DP",0.1,0
+278,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.2,0.5,20,0.8355702411091632,0.006007843526433109,"(0.1, 0)-DP",0.1,0
+279,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=10)",0.2,0.5,5,0.8382423303081985,0.005095082324843959,"(0.1, 0)-DP",0.1,0
+280,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=10)",0.2,0.5,10,0.831639452148434,0.007286213955828219,"(0.1, 0)-DP",0.1,0
+281,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=10)",0.2,0.5,20,0.8152693809130934,0.009945471707245059,"(0.1, 0)-DP",0.1,0
+282,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.2,0.75,5,0.8328984112666747,0.004120048066603031,"(0.1, 0)-DP",0.1,0
+283,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.2,0.75,10,0.8208286601999175,0.0065985653204274795,"(0.1, 0)-DP",0.1,0
+284,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.2,0.75,20,0.8223642631576762,0.013813514948646124,"(0.1, 0)-DP",0.1,0
+285,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=10)",0.2,0.75,5,0.8303184219351885,0.004833712390982354,"(0.1, 0)-DP",0.1,0
+286,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=10)",0.2,0.75,10,0.8256200224763098,0.010146297624924314,"(0.1, 0)-DP",0.1,0
+287,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.0001535579374097847,
+              global_epsilon=0.1, max_depth=10)",0.2,0.75,20,0.8080520399382675,0.020383473288182314,"(0.1, 0)-DP",0.1,0
+288,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.25,0.1,5,0.8117074818422123,0.004127454711777708,"(2, 0)-DP",2.0,0
+289,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.25,0.1,10,0.8203067169384534,0.004725003743737045,"(2, 0)-DP",2.0,0
+290,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.25,0.1,20,0.8244834749325767,0.003953898808951451,"(2, 0)-DP",2.0,0
+291,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=10)",0.25,0.1,5,0.8330520965251503,0.006164499665533984,"(2, 0)-DP",2.0,0
+292,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=10)",0.25,0.1,10,0.8403306975163263,0.005311434202057602,"(2, 0)-DP",2.0,0
+293,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=10)",0.25,0.1,20,0.8411598273873724,0.003920032013922043,"(2, 0)-DP",2.0,0
+294,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.25,0.25,5,0.8134886294317433,0.002278847501302237,"(2, 0)-DP",2.0,0
+295,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.25,0.25,10,0.8374129976674887,0.003976486006052898,"(2, 0)-DP",2.0,0
+296,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.25,0.25,20,0.8384880116916046,0.0045723372966014865,"(2, 0)-DP",2.0,0
+297,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=10)",0.25,0.25,5,0.839102196287825,0.004037471136747436,"(2, 0)-DP",2.0,0
+298,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=10)",0.25,0.25,10,0.8403612921576995,0.003817864992401001,"(2, 0)-DP",2.0,0
+299,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=10)",0.25,0.25,20,0.8451524139398391,0.006636595655216316,"(2, 0)-DP",2.0,0
+300,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.25,0.5,5,0.8274011559191201,0.005398155728199118,"(2, 0)-DP",2.0,0
+301,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.25,0.5,10,0.838180754348419,0.004110863400727548,"(2, 0)-DP",2.0,0
+302,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.25,0.5,20,0.8371058063423332,0.004155925333078838,"(2, 0)-DP",2.0,0
+303,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=10)",0.25,0.5,5,0.8383343735888646,0.0038352049329317744,"(2, 0)-DP",2.0,0
+304,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=10)",0.25,0.5,10,0.8359695134395733,0.0028839750051240973,"(2, 0)-DP",2.0,0
+305,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=10)",0.25,0.5,20,0.8402385033373058,0.004822176557854153,"(2, 0)-DP",2.0,0
+306,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.25,0.75,5,0.8336969370652005,0.004278083891839805,"(2, 0)-DP",2.0,0
+307,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.25,0.75,10,0.8219347640006323,0.009769680034989835,"(2, 0)-DP",2.0,0
+308,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=3, max_splits=3)",0.25,0.75,20,0.8311790376910139,0.01349644054660777,"(2, 0)-DP",2.0,0
+309,"DPTopDownTree(dp_epsilon=0.4, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=10)",0.25,0.75,5,0.8343725655851404,0.006976484426088638,"(2, 0)-DP",2.0,0
+310,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=10)",0.25,0.75,10,0.831208981583233,0.00924342482364579,"(2, 0)-DP",2.0,0
+311,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=2,
+              max_depth=10)",0.25,0.75,20,0.8332360133258337,0.005748508891371389,"(2, 0)-DP",2.0,0
+312,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.25,0.1,5,0.8117074818422123,0.004127454711777708,"(1, 0)-DP",1.0,0
+313,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.25,0.1,10,0.8203067169384534,0.004725003743737045,"(1, 0)-DP",1.0,0
+314,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.25,0.1,20,0.8264487703858961,0.00246307193175279,"(1, 0)-DP",1.0,0
+315,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=10)",0.25,0.1,5,0.8340348975079512,0.006120636407964643,"(1, 0)-DP",1.0,0
+316,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=10)",0.25,0.1,10,0.8393478965335252,0.005030583833903384,"(1, 0)-DP",1.0,0
+317,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=10)",0.25,0.1,20,0.8416512090164785,0.003733881254116028,"(1, 0)-DP",1.0,0
+318,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.25,0.25,5,0.8134886294317433,0.002278847501302237,"(1, 0)-DP",1.0,0
+319,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.25,0.25,10,0.8372901475446385,0.003835619316998666,"(1, 0)-DP",1.0,0
+320,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.25,0.25,20,0.8389793461649748,0.0038915439755110425,"(1, 0)-DP",1.0,0
+321,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=10)",0.25,0.25,5,0.8383343830200118,0.004564725545859792,"(1, 0)-DP",1.0,0
+322,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=10)",0.25,0.25,10,0.8399621141387609,0.0057625531396484275,"(1, 0)-DP",1.0,0
+323,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=10)",0.25,0.25,20,0.8453981424789807,0.006411415593603059,"(1, 0)-DP",1.0,0
+324,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.25,0.5,5,0.8274011559191201,0.005398155728199118,"(1, 0)-DP",1.0,0
+325,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.25,0.5,10,0.838180754348419,0.004110863400727548,"(1, 0)-DP",1.0,0
+326,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.25,0.5,20,0.8356623173988444,0.006711667341740413,"(1, 0)-DP",1.0,0
+327,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=10)",0.25,0.5,5,0.8386107863652773,0.004173580287935489,"(1, 0)-DP",1.0,0
+328,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=10)",0.25,0.5,10,0.8363072758282339,0.003623156700389116,"(1, 0)-DP",1.0,0
+329,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=10)",0.25,0.5,20,0.8451830793148158,0.005765322878423552,"(1, 0)-DP",1.0,0
+330,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.25,0.75,5,0.8336969370652005,0.004278083891839805,"(1, 0)-DP",1.0,0
+331,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.25,0.75,10,0.8219654718157713,0.009713604506353325,"(1, 0)-DP",1.0,0
+332,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=3, max_splits=3)",0.25,0.75,20,0.8253436238466179,0.009554378665384607,"(1, 0)-DP",1.0,0
+333,"DPTopDownTree(dp_epsilon=0.2, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=10)",0.25,0.75,5,0.8332055082803587,0.008234914112011868,"(1, 0)-DP",1.0,0
+334,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=10)",0.25,0.75,10,0.8295815475456194,0.006350848174684312,"(1, 0)-DP",1.0,0
+335,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776, global_epsilon=1,
+              max_depth=10)",0.25,0.75,20,0.829274233615551,0.007156241845953713,"(1, 0)-DP",1.0,0
+336,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.25,0.1,5,0.8117074818422123,0.004127454711777708,"(0.75, 0)-DP",0.75,0
+337,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.25,0.1,10,0.8197232684508133,0.00564513317765439,"(0.75, 0)-DP",0.75,0
+338,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.25,0.1,20,0.8245756125247142,0.003936553911213323,"(0.75, 0)-DP",0.75,0
+339,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=10)",0.25,0.1,5,0.8334513594244133,0.006582403532136135,"(0.75, 0)-DP",0.75,0
+340,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=10)",0.25,0.1,10,0.8392249520992034,0.004230158336313927,"(0.75, 0)-DP",0.75,0
+341,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=10)",0.25,0.1,20,0.840852702080247,0.0038768764571151314,"(0.75, 0)-DP",0.75,0
+342,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.25,0.25,5,0.8134886294317433,0.002278847501302237,"(0.75, 0)-DP",0.75,0
+343,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.25,0.25,10,0.8374129976674887,0.003976486006052898,"(0.75, 0)-DP",0.75,0
+344,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.25,0.25,20,0.8395935496234899,0.0032957987228026606,"(0.75, 0)-DP",0.75,0
+345,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=10)",0.25,0.25,5,0.839102196287825,0.004353358760227202,"(0.75, 0)-DP",0.75,0
+346,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=10)",0.25,0.25,10,0.8402693479040784,0.006380566292726371,"(0.75, 0)-DP",0.75,0
+347,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=10)",0.25,0.25,20,0.845275254631542,0.005873721009284416,"(0.75, 0)-DP",0.75,0
+348,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.25,0.5,5,0.8274011559191201,0.005398155728199118,"(0.75, 0)-DP",0.75,0
+349,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.25,0.5,10,0.838180754348419,0.004110863400727548,"(0.75, 0)-DP",0.75,0
+350,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.25,0.5,20,0.8327756648864432,0.007767509088766352,"(0.75, 0)-DP",0.75,0
+351,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=10)",0.25,0.5,5,0.8388565007576982,0.004024945674922031,"(0.75, 0)-DP",0.75,0
+352,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=10)",0.25,0.5,10,0.8354782025440709,0.005616455555701818,"(0.75, 0)-DP",0.75,0
+353,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=10)",0.25,0.5,20,0.8419276595174798,0.0041621985320370435,"(0.75, 0)-DP",0.75,0
+354,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.25,0.75,5,0.8336969370652005,0.004278083891839805,"(0.75, 0)-DP",0.75,0
+355,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.25,0.75,10,0.8228254273912956,0.010694169538540875,"(0.75, 0)-DP",0.75,0
+356,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=3, max_splits=3)",0.25,0.75,20,0.8210433791272115,0.0099604874095291,"(0.75, 0)-DP",0.75,0
+357,"DPTopDownTree(dp_epsilon=0.15, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=10)",0.25,0.75,5,0.8323148118806802,0.007156821646551346,"(0.75, 0)-DP",0.75,0
+358,"DPTopDownTree(dp_epsilon=0.075, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=10)",0.25,0.75,10,0.8274011370568257,0.009240877815643268,"(0.75, 0)-DP",0.75,0
+359,"DPTopDownTree(dp_epsilon=0.0375, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.75, max_depth=10)",0.25,0.75,20,0.8291208501537843,0.003919706330952827,"(0.75, 0)-DP",0.75,0
+360,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.25,0.1,5,0.8117074818422123,0.004127454711777708,"(0.5, 0)-DP",0.5,0
+361,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.25,0.1,10,0.8202145793463158,0.004760912777290152,"(0.5, 0)-DP",0.5,0
+362,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.25,0.1,20,0.8239000170137896,0.004976213125964169,"(0.5, 0)-DP",0.5,0
+363,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=10)",0.25,0.1,5,0.8342498144893356,0.00577223027319109,"(0.5, 0)-DP",0.5,0
+364,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=10)",0.25,0.1,10,0.8392557353635197,0.004902353719123143,"(0.5, 0)-DP",0.5,0
+365,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=10)",0.25,0.1,20,0.8410062694493832,0.00404554787805657,"(0.5, 0)-DP",0.5,0
+366,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.25,0.25,5,0.8134886294317433,0.002278847501302237,"(0.5, 0)-DP",0.5,0
+367,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.25,0.25,10,0.8374129976674887,0.003976486006052898,"(0.5, 0)-DP",0.5,0
+368,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.25,0.25,20,0.8390714507480974,0.0036157654772696717,"(0.5, 0)-DP",0.5,0
+369,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=10)",0.25,0.25,5,0.8383343830200118,0.004564725545859792,"(0.5, 0)-DP",0.5,0
+370,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=10)",0.25,0.25,10,0.8404843450502133,0.006422120382396075,"(0.5, 0)-DP",0.5,0
+371,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=10)",0.25,0.25,20,0.8440467864120558,0.005018190478836721,"(0.5, 0)-DP",0.5,0
+372,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.25,0.5,5,0.8264490674670316,0.0042951699604708155,"(0.5, 0)-DP",0.5,0
+373,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.25,0.5,10,0.8382728919405565,0.004226155079940769,"(0.5, 0)-DP",0.5,0
+374,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.25,0.5,20,0.8365222871210894,0.0086023739027497,"(0.5, 0)-DP",0.5,0
+375,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=10)",0.25,0.5,5,0.837628112702963,0.005010540810304998,"(0.5, 0)-DP",0.5,0
+376,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=10)",0.25,0.5,10,0.8337582536684331,0.0024470854499763924,"(0.5, 0)-DP",0.5,0
+377,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=10)",0.25,0.5,20,0.8407296727656008,0.0065702916121145585,"(0.5, 0)-DP",0.5,0
+378,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.25,0.75,5,0.8336969370652005,0.004278083891839805,"(0.5, 0)-DP",0.5,0
+379,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.25,0.75,10,0.8276161294873869,0.00483096844233092,"(0.5, 0)-DP",0.5,0
+380,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=3, max_splits=3)",0.25,0.75,20,0.8266027150009186,0.009033961125419388,"(0.5, 0)-DP",0.5,0
+381,"DPTopDownTree(dp_epsilon=0.1, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=10)",0.25,0.75,5,0.8318540531863885,0.00381649291946247,"(0.5, 0)-DP",0.5,0
+382,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=10)",0.25,0.75,10,0.8305950516279857,0.007417029426201359,"(0.5, 0)-DP",0.5,0
+383,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.5, max_depth=10)",0.25,0.75,20,0.821412127549852,0.011323995809168739,"(0.5, 0)-DP",0.5,0
+384,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.25,0.1,5,0.8117074818422123,0.004127454711777708,"(0.25, 0)-DP",0.25,0
+385,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.25,0.1,10,0.8197538913856279,0.0047832092645596225,"(0.25, 0)-DP",0.25,0
+386,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.25,0.1,20,0.8254662759153776,0.005567197643847013,"(0.25, 0)-DP",0.25,0
+387,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=10)",0.25,0.1,5,0.8341270351000889,0.007013939063094004,"(0.25, 0)-DP",0.25,0
+388,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=10)",0.25,0.1,10,0.8381502257250759,0.005734604446213057,"(0.25, 0)-DP",0.25,0
+389,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=10)",0.25,0.1,20,0.838733674212716,0.004871135867224068,"(0.25, 0)-DP",0.25,0
+390,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.25,0.25,5,0.8136114606922991,0.00210995666727729,"(0.25, 0)-DP",0.25,0
+391,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.25,0.25,10,0.8373208600753511,0.0038698543620232654,"(0.25, 0)-DP",0.25,0
+392,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.25,0.25,20,0.839869924675314,0.0033297758746273234,"(0.25, 0)-DP",0.25,0
+393,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=10)",0.25,0.25,5,0.8392249756770715,0.0031203385328681965,"(0.25, 0)-DP",0.25,0
+394,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=10)",0.25,0.25,10,0.8370137630616672,0.007093838239443043,"(0.25, 0)-DP",0.25,0
+395,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=10)",0.25,0.25,20,0.8403920707064418,0.004177218762328208,"(0.25, 0)-DP",0.25,0
+396,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.25,0.5,5,0.8274011559191201,0.005398155728199118,"(0.25, 0)-DP",0.25,0
+397,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.25,0.5,10,0.8364609846645775,0.004530722988984052,"(0.25, 0)-DP",0.25,0
+398,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.25,0.5,20,0.8381806647525212,0.008062684710933292,"(0.25, 0)-DP",0.25,0
+399,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=10)",0.25,0.5,5,0.8364916736174222,0.0030380055090672197,"(0.25, 0)-DP",0.25,0
+400,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=10)",0.25,0.5,10,0.8333900663990483,0.007564629053888846,"(0.25, 0)-DP",0.25,0
+401,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=10)",0.25,0.5,20,0.8371981184106932,0.005197198698270171,"(0.25, 0)-DP",0.25,0
+402,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.25,0.75,5,0.8336969370652005,0.004278083891839805,"(0.25, 0)-DP",0.25,0
+403,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.25,0.75,10,0.8253434022146596,0.0055892545025995,"(0.25, 0)-DP",0.25,0
+404,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=3, max_splits=3)",0.25,0.75,20,0.825650381339004,0.010734551534305187,"(0.25, 0)-DP",0.25,0
+405,"DPTopDownTree(dp_epsilon=0.05, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=10)",0.25,0.75,5,0.8338810849289893,0.00524743343057365,"(0.25, 0)-DP",0.25,0
+406,"DPTopDownTree(dp_epsilon=0.025, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=10)",0.25,0.75,10,0.8324376620035302,0.005023523047478856,"(0.25, 0)-DP",0.25,0
+407,"DPTopDownTree(dp_epsilon=0.0125, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.25, max_depth=10)",0.25,0.75,20,0.822733256790143,0.012181801703030189,"(0.25, 0)-DP",0.25,0
+408,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.25,0.1,5,0.8117074818422123,0.004127454711777708,"(0.1, 0)-DP",0.1,0
+409,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.25,0.1,10,0.8196924804709236,0.004261222864393,"(0.1, 0)-DP",0.1,0
+410,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.25,0.1,20,0.8277695129491536,0.005119913664818491,"(0.1, 0)-DP",0.1,0
+411,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=10)",0.25,0.1,5,0.8340657137812826,0.007352783206795856,"(0.1, 0)-DP",0.1,0
+412,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=10)",0.25,0.1,10,0.8365224191571496,0.00463891901662525,"(0.1, 0)-DP",0.1,0
+413,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=10)",0.25,0.1,20,0.8355703212739141,0.0070261310436979165,"(0.1, 0)-DP",0.1,0
+414,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.25,0.25,5,0.8120759096058496,0.00233653045688754,"(0.1, 0)-DP",0.1,0
+415,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.25,0.25,10,0.8361847416488134,0.006610270849613281,"(0.1, 0)-DP",0.1,0
+416,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.25,0.25,20,0.839255744794667,0.003616429744685051,"(0.1, 0)-DP",0.1,0
+417,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=10)",0.25,0.25,5,0.839040738217385,0.004342813374682484,"(0.1, 0)-DP",0.1,0
+418,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=10)",0.25,0.25,10,0.8375665508899042,0.005203520083286358,"(0.1, 0)-DP",0.1,0
+419,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=10)",0.25,0.25,20,0.834218955775842,0.0053942443354664475,"(0.1, 0)-DP",0.1,0
+420,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.25,0.5,5,0.8262649478966845,0.0070376735962993315,"(0.1, 0)-DP",0.1,0
+421,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.25,0.5,10,0.8362458649135295,0.001905311208541122,"(0.1, 0)-DP",0.1,0
+422,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.25,0.5,20,0.8298889322092915,0.008219385384093716,"(0.1, 0)-DP",0.1,0
+423,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=10)",0.25,0.5,5,0.8378738553888254,0.00673400438099229,"(0.1, 0)-DP",0.1,0
+424,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=10)",0.25,0.5,10,0.83682951145526,0.0030824348235463984,"(0.1, 0)-DP",0.1,0
+425,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=10)",0.25,0.5,20,0.8245447962513831,0.010740154868181565,"(0.1, 0)-DP",0.1,0
+426,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.25,0.75,5,0.8342190500873136,0.005992728271696864,"(0.1, 0)-DP",0.1,0
+427,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.25,0.75,10,0.8260805359607755,0.004247553921381751,"(0.1, 0)-DP",0.1,0
+428,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=3, max_splits=3)",0.25,0.75,20,0.8285987229849507,0.005176641143403637,"(0.1, 0)-DP",0.1,0
+429,"DPTopDownTree(dp_epsilon=0.02, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=10)",0.25,0.75,5,0.8335433366870493,0.005523886160874393,"(0.1, 0)-DP",0.1,0
+430,"DPTopDownTree(dp_epsilon=0.01, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=10)",0.25,0.75,10,0.8319769363182538,0.00675554344306341,"(0.1, 0)-DP",0.1,0
+431,"DPTopDownTree(dp_epsilon=0.005, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.1, max_depth=10)",0.25,0.75,20,0.8324990634870876,0.006441710063865025,"(0.1, 0)-DP",0.1,0
+432,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.1,0.1,5,0.8117074818422123,0.004127454711777708,"(2, sLIN)-DP",2.0,sLIN
+433,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.1,0.1,10,0.8199075153416471,0.0053441650835023965,"(2, sLIN)-DP",2.0,sLIN
+434,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.1,0.1,20,0.824852105465878,0.005883098903970762,"(2, sLIN)-DP",2.0,sLIN
+435,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.1,0.1,5,0.8343419850904882,0.005557780273930209,"(2, sLIN)-DP",2.0,sLIN
+436,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.1,0.1,10,0.8380580881329385,0.006751932384166954,"(2, sLIN)-DP",2.0,sLIN
+437,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.1,0.1,20,0.8391942678619326,0.003650120850172709,"(2, sLIN)-DP",2.0,sLIN
+438,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.1,0.25,5,0.8158534754343136,0.004265847641956207,"(2, sLIN)-DP",2.0,sLIN
+439,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.1,0.25,10,0.8374437101982013,0.003775928203265369,"(2, sLIN)-DP",2.0,sLIN
+440,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.1,0.25,20,0.839870023702359,0.0051983270758357465,"(2, sLIN)-DP",2.0,sLIN
+441,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.1,0.25,5,0.8391328899562431,0.004167222348976047,"(2, sLIN)-DP",2.0,sLIN
+442,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.1,0.25,10,0.8398392593003372,0.0043751719363762445,"(2, sLIN)-DP",2.0,sLIN
+443,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.1,0.25,20,0.8425418771227153,0.005322345409864785,"(2, sLIN)-DP",2.0,sLIN
+444,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.1,0.5,5,0.8263877980195347,0.007180869124377801,"(2, sLIN)-DP",2.0,sLIN
+445,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.1,0.5,10,0.832744782595082,0.0037188972603681347,"(2, sLIN)-DP",2.0,sLIN
+446,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.1,0.5,20,0.8313015435769927,0.008133597460089834,"(2, sLIN)-DP",2.0,sLIN
+447,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.1,0.5,5,0.8365532542927753,0.006345448523583106,"(2, sLIN)-DP",2.0,sLIN
+448,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.1,0.5,10,0.828905678531427,0.005969468184969106,"(2, sLIN)-DP",2.0,sLIN
+449,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.1,0.5,20,0.8334203356658445,0.011847983685595807,"(2, sLIN)-DP",2.0,sLIN
+450,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.1,0.75,5,0.8341268464771459,0.0029565213215640702,"(2, sLIN)-DP",2.0,sLIN
+451,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.1,0.75,10,0.8190162389264186,0.021405123133670528,"(2, sLIN)-DP",2.0,sLIN
+452,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.1,0.75,20,0.8139793367338278,0.021746787415178076,"(2, sLIN)-DP",2.0,sLIN
+453,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.1,0.75,5,0.8388257505023973,0.0035016132888414935,"(2, sLIN)-DP",2.0,sLIN
+454,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.1,0.75,10,0.8097723896376591,0.014819834701827577,"(2, sLIN)-DP",2.0,sLIN
+455,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.1,0.75,20,0.8118605682228438,0.013346993866699354,"(2, sLIN)-DP",2.0,sLIN
+456,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.1,0.1,5,0.8117074818422123,0.004127454711777708,"(1, sLIN)-DP",1.0,sLIN
+457,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.1,0.1,10,0.8203373917445775,0.003872660999540419,"(1, sLIN)-DP",1.0,sLIN
+458,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.1,0.1,20,0.8276468514492465,0.0057192940139502,"(1, sLIN)-DP",1.0,sLIN
+459,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.1,0.1,5,0.8326835414410265,0.005557613599328412,"(1, sLIN)-DP",1.0,sLIN
+460,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.1,0.1,10,0.8361539253754822,0.004596710393539253,"(1, sLIN)-DP",1.0,sLIN
+461,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.1,0.1,20,0.8393785713396491,0.003988916479049611,"(1, sLIN)-DP",1.0,sLIN
+462,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.1,0.25,5,0.8142564992864394,0.0035977689418169134,"(1, sLIN)-DP",1.0,sLIN
+463,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.1,0.25,10,0.8366758827836673,0.004253298606193301,"(1, sLIN)-DP",1.0,sLIN
+464,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.1,0.25,20,0.8380579749591724,0.005653392425608865,"(1, sLIN)-DP",1.0,sLIN
+465,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.1,0.25,5,0.8375359703952518,0.005714721076270033,"(1, sLIN)-DP",1.0,sLIN
+466,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.1,0.25,10,0.8347717388885053,0.005322365806084611,"(1, sLIN)-DP",1.0,sLIN
+467,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.1,0.25,20,0.840883541931446,0.005700071565742191,"(1, sLIN)-DP",1.0,sLIN
+468,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.1,0.5,5,0.8266640551820194,0.005453155333218245,"(1, sLIN)-DP",1.0,sLIN
+469,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.1,0.5,10,0.8346182139595314,0.004947439155637622,"(1, sLIN)-DP",1.0,sLIN
+470,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.1,0.5,20,0.8304416304416306,0.00794901890601066,"(1, sLIN)-DP",1.0,sLIN
+471,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.1,0.5,5,0.8372287319143608,0.0027381015698414745,"(1, sLIN)-DP",1.0,sLIN
+472,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.1,0.5,10,0.8338196457208433,0.004889728242025017,"(1, sLIN)-DP",1.0,sLIN
+473,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.1,0.5,20,0.8321918721619321,0.004375732506039432,"(1, sLIN)-DP",1.0,sLIN
+474,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.1,0.75,5,0.8337276448803396,0.0035735411570536717,"(1, sLIN)-DP",1.0,sLIN
+475,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.1,0.75,10,0.8232548275212945,0.0051934889483937945,"(1, sLIN)-DP",1.0,sLIN
+476,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.1,0.75,20,0.8212590223069265,0.013984837435058906,"(1, sLIN)-DP",1.0,sLIN
+477,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.1,0.75,5,0.8320385877272104,0.005387991851315253,"(1, sLIN)-DP",1.0,sLIN
+478,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.1,0.75,10,0.8166513976394217,0.023995955389808907,"(1, sLIN)-DP",1.0,sLIN
+479,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.1,0.75,20,0.8286906530918507,0.007153164093446388,"(1, sLIN)-DP",1.0,sLIN
+480,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.1,0.1,5,0.8117074818422123,0.004127454711777708,"(0.75, sLIN)-DP",0.75,sLIN
+481,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.1,0.1,10,0.8193240055515505,0.00501239465982376,"(0.75, sLIN)-DP",0.75,sLIN
+482,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.1,0.1,20,0.8270326668530261,0.009222882793499964,"(0.75, sLIN)-DP",0.75,sLIN
+483,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.1,0.1,5,0.8321614284189135,0.004989725366860021,"(0.75, sLIN)-DP",0.75,sLIN
+484,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.1,0.1,10,0.8346797852037373,0.00567723702865056,"(0.75, sLIN)-DP",0.75,sLIN
+485,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.1,0.1,20,0.8374744463067817,0.004180325745241973,"(0.75, sLIN)-DP",0.75,sLIN
+486,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.1,0.25,5,0.8132120893348438,0.0015809868046020928,"(0.75, sLIN)-DP",0.75,sLIN
+487,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.1,0.25,10,0.8364918669559389,0.006864139267878349,"(0.75, sLIN)-DP",0.75,sLIN
+488,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.1,0.25,20,0.8394400152633684,0.004067180566474167,"(0.75, sLIN)-DP",0.75,sLIN
+489,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.1,0.25,5,0.8360619103882577,0.006550490538997104,"(0.75, sLIN)-DP",0.75,sLIN
+490,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.1,0.25,10,0.8379964791641438,0.002973526544818717,"(0.75, sLIN)-DP",0.75,sLIN
+491,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.1,0.25,20,0.8356622938209766,0.004905785945114255,"(0.75, sLIN)-DP",0.75,sLIN
+492,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.1,0.5,5,0.8260189788632901,0.003339605968509436,"(0.75, sLIN)-DP",0.75,sLIN
+493,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.1,0.5,10,0.8363688187789984,0.00467292491260119,"(0.75, sLIN)-DP",0.75,sLIN
+494,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.1,0.5,20,0.8240534853558806,0.00925657714839578,"(0.75, sLIN)-DP",0.75,sLIN
+495,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.1,0.5,5,0.8363993945580772,0.005076266709489367,"(0.75, sLIN)-DP",0.75,sLIN
+496,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.1,0.5,10,0.8312090994725725,0.006108590195630584,"(0.75, sLIN)-DP",0.75,sLIN
+497,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.1,0.5,20,0.8258964918396057,0.00892410146021199,"(0.75, sLIN)-DP",0.75,sLIN
+498,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.1,0.75,5,0.8335739501907167,0.0027570673848212623,"(0.75, sLIN)-DP",0.75,sLIN
+499,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.1,0.75,10,0.8199692374842076,0.010387416676115951,"(0.75, sLIN)-DP",0.75,sLIN
+500,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.1,0.75,20,0.8249440638662195,0.011062789776681844,"(0.75, sLIN)-DP",0.75,sLIN
+501,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.1,0.75,5,0.8318234821228835,0.0028588098444235835,"(0.75, sLIN)-DP",0.75,sLIN
+502,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.1,0.75,10,0.8163447768986691,0.021161852964527293,"(0.75, sLIN)-DP",0.75,sLIN
+503,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.1,0.75,20,0.814994104589913,0.017794769499755593,"(0.75, sLIN)-DP",0.75,sLIN
+504,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.1,0.1,5,0.8124445825793132,0.004361099641061823,"(0.5, sLIN)-DP",0.5,sLIN
+505,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.1,0.1,10,0.8191397209361281,0.00475495465263533,"(0.5, sLIN)-DP",0.5,sLIN
+506,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.1,0.1,20,0.8298579886154738,0.004353325608134323,"(0.5, sLIN)-DP",0.5,sLIN
+507,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.1,0.1,5,0.8286296194230326,0.005177925849386062,"(0.5, sLIN)-DP",0.5,sLIN
+508,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.1,0.1,10,0.83240699191298,0.002540143011141944,"(0.5, sLIN)-DP",0.5,sLIN
+509,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.1,0.1,20,0.8326527298832687,0.0037327458427588037,"(0.5, sLIN)-DP",0.5,sLIN
+510,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.1,0.25,5,0.8131815607115008,0.0033172347232626096,"(0.5, sLIN)-DP",0.5,sLIN
+511,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.1,0.25,10,0.8317312360725534,0.0014024983625223998,"(0.5, sLIN)-DP",0.5,sLIN
+512,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.1,0.25,20,0.8382115470438822,0.0039257117020050185,"(0.5, sLIN)-DP",0.5,sLIN
+513,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.1,0.25,5,0.8308100723519886,0.003708002500566334,"(0.5, sLIN)-DP",0.5,sLIN
+514,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.1,0.25,10,0.834065374259985,0.00556878229263204,"(0.5, sLIN)-DP",0.5,sLIN
+515,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.1,0.25,20,0.8362153504369074,0.005756128832540064,"(0.5, sLIN)-DP",0.5,sLIN
+516,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.1,0.5,5,0.8242379208696574,0.006237958681242086,"(0.5, sLIN)-DP",0.5,sLIN
+517,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.1,0.5,10,0.8343111263769944,0.00431279103890912,"(0.5, sLIN)-DP",0.5,sLIN
+518,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.1,0.5,20,0.8345258735977298,0.008955109580106129,"(0.5, sLIN)-DP",0.5,sLIN
+519,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.1,0.5,5,0.8354166548777326,0.003498464214951212,"(0.5, sLIN)-DP",0.5,sLIN
+520,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.1,0.5,10,0.8248209685335434,0.010827344910078121,"(0.5, sLIN)-DP",0.5,sLIN
+521,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.1,0.5,20,0.8290589818284427,0.009095448884857577,"(0.5, sLIN)-DP",0.5,sLIN
+522,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.1,0.75,5,0.8344339623531241,0.0039697543315833535,"(0.5, sLIN)-DP",0.5,sLIN
+523,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.1,0.75,10,0.8248830113351071,0.011576234223843322,"(0.5, sLIN)-DP",0.5,sLIN
+524,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.1,0.75,20,0.8080828090558629,0.026003622703484167,"(0.5, sLIN)-DP",0.5,sLIN
+525,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.1,0.75,5,0.836952271982212,0.003926191095460097,"(0.5, sLIN)-DP",0.5,sLIN
+526,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.1,0.75,10,0.8067943681716135,0.02355140838703058,"(0.5, sLIN)-DP",0.5,sLIN
+527,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.1,0.75,20,0.8265104642350151,0.0040985792169283605,"(0.5, sLIN)-DP",0.5,sLIN
+528,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.1,0.1,5,0.8117074818422123,0.004127454711777708,"(0.25, sLIN)-DP",0.25,sLIN
+529,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.1,0.1,10,0.8202144001545199,0.0030436580145629805,"(0.25, sLIN)-DP",0.25,sLIN
+530,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.1,0.1,20,0.8278618391642343,0.007073851727054399,"(0.25, sLIN)-DP",0.25,sLIN
+531,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.1,0.1,5,0.8157919937860058,0.006520027049867433,"(0.25, sLIN)-DP",0.25,sLIN
+532,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.1,0.1,10,0.8178191151245043,0.00934206814487744,"(0.25, sLIN)-DP",0.25,sLIN
+533,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.1,0.1,20,0.819354604908497,0.0038041166507855073,"(0.25, sLIN)-DP",0.25,sLIN
+534,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.1,0.25,5,0.81827976064503,0.004606488082394802,"(0.25, sLIN)-DP",0.25,sLIN
+535,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.1,0.25,10,0.8353860602363596,0.005142755455529011,"(0.25, sLIN)-DP",0.25,sLIN
+536,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.1,0.25,20,0.8345260857985408,0.005650863526690888,"(0.25, sLIN)-DP",0.25,sLIN
+537,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.1,0.25,5,0.8188635439383942,0.011028427466177507,"(0.25, sLIN)-DP",0.25,sLIN
+538,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.1,0.25,10,0.8233778615515142,0.0053138657456632005,"(0.25, sLIN)-DP",0.25,sLIN
+539,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.1,0.25,20,0.8299192580629706,0.0028523278552279583,"(0.25, sLIN)-DP",0.25,sLIN
+540,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.1,0.5,5,0.8288751923482461,0.005872192498158972,"(0.25, sLIN)-DP",0.25,sLIN
+541,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.1,0.5,10,0.8336661160762958,0.004440850663290843,"(0.25, sLIN)-DP",0.25,sLIN
+542,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.1,0.5,20,0.8331133141013382,0.006200201984990485,"(0.25, sLIN)-DP",0.25,sLIN
+543,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.1,0.5,5,0.827278022861855,0.0017555166924980428,"(0.25, sLIN)-DP",0.25,sLIN
+544,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.1,0.5,10,0.8126597966418327,0.01759329802882431,"(0.25, sLIN)-DP",0.25,sLIN
+545,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.1,0.5,20,0.8205519739202375,0.012254122594897306,"(0.25, sLIN)-DP",0.25,sLIN
+546,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.1,0.75,5,0.8352325022983706,0.004834548130420479,"(0.25, sLIN)-DP",0.25,sLIN
+547,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.1,0.75,10,0.824053513649322,0.005873016357124449,"(0.25, sLIN)-DP",0.25,sLIN
+548,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.1,0.75,20,0.8207669993598138,0.022593626033958453,"(0.25, sLIN)-DP",0.25,sLIN
+549,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.1,0.75,5,0.8324991577985591,0.0057504506850968706,"(0.25, sLIN)-DP",0.25,sLIN
+550,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.1,0.75,10,0.7866776888483475,0.0294020829540017,"(0.25, sLIN)-DP",0.25,sLIN
+551,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.1,0.75,20,0.8149943120751505,0.017274455058110132,"(0.25, sLIN)-DP",0.25,sLIN
+552,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.1,0.1,5,0.8008659585006891,0.0061262647576415885,"(0.1, sLIN)-DP",0.1,sLIN
+553,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.1,0.1,10,0.8114005168645887,0.009553715077722302,"(0.1, sLIN)-DP",0.1,sLIN
+554,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.1,0.1,20,0.8167136856508114,0.008482531510888512,"(0.1, sLIN)-DP",0.1,sLIN
+555,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.1,0.1,5,0.7662850400125849,0.006947212994963963,"(0.1, sLIN)-DP",0.1,sLIN
+556,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.1,0.1,10,0.8077145746307423,0.0068924513597258055,"(0.1, sLIN)-DP",0.1,sLIN
+557,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.1,0.1,20,0.7875979283164912,0.020968962419528024,"(0.1, sLIN)-DP",0.1,sLIN
+558,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.1,0.25,5,0.8183100629208413,0.00918417536088455,"(0.1, sLIN)-DP",0.1,sLIN
+559,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.1,0.25,10,0.8265106622891054,0.008190934040067686,"(0.1, sLIN)-DP",0.1,sLIN
+560,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.1,0.25,20,0.831577994077994,0.005800892126031376,"(0.1, sLIN)-DP",0.1,sLIN
+561,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.1,0.25,5,0.8071926360848517,0.0035303473762976338,"(0.1, sLIN)-DP",0.1,sLIN
+562,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.1,0.25,10,0.8064862007227276,0.007982236484557087,"(0.1, sLIN)-DP",0.1,sLIN
+563,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.1,0.25,20,0.8221184450226365,0.003973797560457022,"(0.1, sLIN)-DP",0.1,sLIN
+564,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.1,0.5,5,0.8243910072502887,0.005208022941629362,"(0.1, sLIN)-DP",0.1,sLIN
+565,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.1,0.5,10,0.8304723146789016,0.00569009404888467,"(0.1, sLIN)-DP",0.1,sLIN
+566,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.1,0.5,20,0.8135501063644777,0.008637341461328215,"(0.1, sLIN)-DP",0.1,sLIN
+567,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.1,0.5,5,0.8148402448552149,0.007351348190011365,"(0.1, sLIN)-DP",0.1,sLIN
+568,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.1,0.5,10,0.7881818672237835,0.024289709762756306,"(0.1, sLIN)-DP",0.1,sLIN
+569,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.1,0.5,20,0.7998220672621871,0.0076393785748188605,"(0.1, sLIN)-DP",0.1,sLIN
+570,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.1,0.75,5,0.8293357341261534,0.002953279884224836,"(0.1, sLIN)-DP",0.1,sLIN
+571,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.1,0.75,10,0.7954007171821542,0.0373267458723681,"(0.1, sLIN)-DP",0.1,sLIN
+572,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.1,0.75,20,0.8124151998403496,0.025796831507352416,"(0.1, sLIN)-DP",0.1,sLIN
+573,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.1,0.75,5,0.8180952826910912,0.006058231098293517,"(0.1, sLIN)-DP",0.1,sLIN
+574,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.1,0.75,10,0.7905169390947835,0.03525888501045697,"(0.1, sLIN)-DP",0.1,sLIN
+575,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0003071158748195694,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.1,0.75,20,0.7887360414306521,0.022877150921353166,"(0.1, sLIN)-DP",0.1,sLIN
+576,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.2,0.1,5,0.8117074818422123,0.004127454711777708,"(2, sLIN)-DP",2.0,sLIN
+577,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.2,0.1,10,0.8203067169384534,0.004725003743737045,"(2, sLIN)-DP",2.0,sLIN
+578,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.2,0.1,20,0.8244527624018643,0.003957995686751299,"(2, sLIN)-DP",2.0,sLIN
+579,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.2,0.1,5,0.8328063962794502,0.005761344690628247,"(2, sLIN)-DP",2.0,sLIN
+580,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.2,0.1,10,0.8394707466563756,0.0048170455049600484,"(2, sLIN)-DP",2.0,sLIN
+581,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.2,0.1,20,0.8417126199311827,0.003416540775080879,"(2, sLIN)-DP",2.0,sLIN
+582,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.2,0.25,5,0.8134886294317433,0.002278847501302237,"(2, sLIN)-DP",2.0,sLIN
+583,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.2,0.25,10,0.8373208600753511,0.0038698543620232654,"(2, sLIN)-DP",2.0,sLIN
+584,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.2,0.25,20,0.8385493471571316,0.004296288747374721,"(2, sLIN)-DP",2.0,sLIN
+585,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.2,0.25,5,0.839225046410675,0.004384089491866182,"(2, sLIN)-DP",2.0,sLIN
+586,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.2,0.25,10,0.8390100492645403,0.0032975915624885548,"(2, sLIN)-DP",2.0,sLIN
+587,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.2,0.25,20,0.8441696271037588,0.005131579805218069,"(2, sLIN)-DP",2.0,sLIN
+588,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.2,0.5,5,0.8274011559191201,0.005398155728199118,"(2, sLIN)-DP",2.0,sLIN
+589,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.2,0.5,10,0.8338197211700205,0.005255364035570582,"(2, sLIN)-DP",2.0,sLIN
+590,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.2,0.5,20,0.8328981236166865,0.004537605313319753,"(2, sLIN)-DP",2.0,sLIN
+591,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.2,0.5,5,0.8379043981588892,0.004029112474411492,"(2, sLIN)-DP",2.0,sLIN
+592,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.2,0.5,10,0.8363384127605684,0.00918087010996804,"(2, sLIN)-DP",2.0,sLIN
+593,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.2,0.5,20,0.8410369819800957,0.00677687358184924,"(2, sLIN)-DP",2.0,sLIN
+594,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.2,0.75,5,0.8330826440107877,0.0037256826140742963,"(2, sLIN)-DP",2.0,sLIN
+595,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.2,0.75,10,0.8231321518746668,0.004312071103235121,"(2, sLIN)-DP",2.0,sLIN
+596,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.2,0.75,20,0.8280766005316904,0.004191000132857059,"(2, sLIN)-DP",2.0,sLIN
+597,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.2,0.75,5,0.8348331450876361,0.005505490467440097,"(2, sLIN)-DP",2.0,sLIN
+598,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.2,0.75,10,0.8222414979151506,0.009376696646061158,"(2, sLIN)-DP",2.0,sLIN
+599,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.2,0.75,20,0.8250363429255645,0.005880149507701454,"(2, sLIN)-DP",2.0,sLIN
+600,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.1,5,0.8117074818422123,0.004127454711777708,"(1, sLIN)-DP",1.0,sLIN
+601,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.1,10,0.819416143143688,0.005238109007479987,"(1, sLIN)-DP",1.0,sLIN
+602,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.1,20,0.8244221300359026,0.0050013343092328265,"(1, sLIN)-DP",1.0,sLIN
+603,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.1,5,0.8336356346086884,0.005871819701696307,"(1, sLIN)-DP",1.0,sLIN
+604,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.1,10,0.8393478823868046,0.00531284922834709,"(1, sLIN)-DP",1.0,sLIN
+605,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.1,20,0.8418355737966516,0.004947671518454265,"(1, sLIN)-DP",1.0,sLIN
+606,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.25,5,0.8124444033875171,0.0018113721051485662,"(1, sLIN)-DP",1.0,sLIN
+607,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.25,10,0.8376279853824762,0.0038005779959028084,"(1, sLIN)-DP",1.0,sLIN
+608,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.25,20,0.8387644103212966,0.005669946632525072,"(1, sLIN)-DP",1.0,sLIN
+609,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.25,5,0.839501459187088,0.004777491082955164,"(1, sLIN)-DP",1.0,sLIN
+610,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.25,10,0.8378122935757666,0.005141679264209223,"(1, sLIN)-DP",1.0,sLIN
+611,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.25,20,0.8422961485835737,0.005308745503970712,"(1, sLIN)-DP",1.0,sLIN
+612,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.5,5,0.8264490674670316,0.0042951699604708155,"(1, sLIN)-DP",1.0,sLIN
+613,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.5,10,0.8351096427443732,0.005171910495785576,"(1, sLIN)-DP",1.0,sLIN
+614,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.5,20,0.8342804940110329,0.008953806777878498,"(1, sLIN)-DP",1.0,sLIN
+615,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.5,5,0.8353862299970085,0.007728560223576377,"(1, sLIN)-DP",1.0,sLIN
+616,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.5,10,0.835785294842181,0.005657357808808899,"(1, sLIN)-DP",1.0,sLIN
+617,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.5,20,0.8371367122115625,0.00876417405234291,"(1, sLIN)-DP",1.0,sLIN
+618,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.75,5,0.8332361830864825,0.003571471058055836,"(1, sLIN)-DP",1.0,sLIN
+619,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.75,10,0.8231014393439542,0.004269905211280306,"(1, sLIN)-DP",1.0,sLIN
+620,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.2,0.75,20,0.8211663518549747,0.006984899580995241,"(1, sLIN)-DP",1.0,sLIN
+621,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.75,5,0.8359081213871633,0.0026877024484950967,"(1, sLIN)-DP",1.0,sLIN
+622,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.75,10,0.821351159899064,0.007928063492923765,"(1, sLIN)-DP",1.0,sLIN
+623,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.2,0.75,20,0.8139796715395518,0.007773224000882966,"(1, sLIN)-DP",1.0,sLIN
+624,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.1,5,0.8117074818422123,0.004127454711777708,"(0.75, sLIN)-DP",0.75,sLIN
+625,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.1,10,0.8197232684508133,0.00564513317765439,"(0.75, sLIN)-DP",0.75,sLIN
+626,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.1,20,0.8273394337765595,0.002021828242181964,"(0.75, sLIN)-DP",0.75,sLIN
+627,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.1,5,0.8341270351000889,0.006017196795591658,"(0.75, sLIN)-DP",0.75,sLIN
+628,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.1,10,0.8392557825192556,0.005591141782598436,"(0.75, sLIN)-DP",0.75,sLIN
+629,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.1,20,0.8411905776426736,0.004242894957809427,"(0.75, sLIN)-DP",0.75,sLIN
+630,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.25,5,0.8134886294317433,0.002278847501302237,"(0.75, sLIN)-DP",0.75,sLIN
+631,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.25,10,0.8373822709900554,0.00377840158417731,"(0.75, sLIN)-DP",0.75,sLIN
+632,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.25,20,0.8394092744392145,0.003310076638816023,"(0.75, sLIN)-DP",0.75,sLIN
+633,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.25,5,0.8399926946334132,0.0028658931841310828,"(0.75, sLIN)-DP",0.75,sLIN
+634,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.25,10,0.8408834806289895,0.005025796047019986,"(0.75, sLIN)-DP",0.75,sLIN
+635,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.25,20,0.8427261192979756,0.0040453427370809696,"(0.75, sLIN)-DP",0.75,sLIN
+636,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.5,5,0.8274011559191201,0.005398155728199118,"(0.75, sLIN)-DP",0.75,sLIN
+637,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.5,10,0.8351710725213719,0.00635365391314011,"(0.75, sLIN)-DP",0.75,sLIN
+638,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.5,20,0.8369524653207288,0.010551460189783661,"(0.75, sLIN)-DP",0.75,sLIN
+639,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.5,5,0.8383036704892992,0.004220761986530673,"(0.75, sLIN)-DP",0.75,sLIN
+640,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.5,10,0.836399507731843,0.0027655048674898003,"(0.75, sLIN)-DP",0.75,sLIN
+641,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.5,20,0.83372746097297,0.00983546627797167,"(0.75, sLIN)-DP",0.75,sLIN
+642,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.75,5,0.8330826440107877,0.0037256826140742963,"(0.75, sLIN)-DP",0.75,sLIN
+643,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.75,10,0.8232856673724938,0.0036943702169803913,"(0.75, sLIN)-DP",0.75,sLIN
+644,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.2,0.75,20,0.8285683499755356,0.00909299659350601,"(0.75, sLIN)-DP",0.75,sLIN
+645,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.75,5,0.8347412998610604,0.006948226343989649,"(0.75, sLIN)-DP",0.75,sLIN
+646,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.75,10,0.8234701736198742,0.006893188210990538,"(0.75, sLIN)-DP",0.75,sLIN
+647,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.2,0.75,20,0.821658502122574,0.013736494666670023,"(0.75, sLIN)-DP",0.75,sLIN
+648,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.2,0.1,5,0.8117074818422123,0.004127454711777708,"(0.5, sLIN)-DP",0.5,sLIN
+649,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.2,0.1,10,0.8202145934930366,0.00486325209364081,"(0.5, sLIN)-DP",0.5,sLIN
+650,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.2,0.1,20,0.8288753668244686,0.007843891361798978,"(0.5, sLIN)-DP",0.5,sLIN
+651,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.2,0.1,5,0.8348026117487194,0.0048856603477254465,"(0.5, sLIN)-DP",0.5,sLIN
+652,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.2,0.1,10,0.8385186770665813,0.004199105738040259,"(0.5, sLIN)-DP",0.5,sLIN
+653,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.2,0.1,20,0.8388257929425593,0.004005987804296255,"(0.5, sLIN)-DP",0.5,sLIN
+654,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.2,0.25,5,0.8125979471787854,0.00338175514593844,"(0.5, sLIN)-DP",0.5,sLIN
+655,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.2,0.25,10,0.8378736856281765,0.004111190888462389,"(0.5, sLIN)-DP",0.5,sLIN
+656,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.2,0.25,20,0.8383343877355853,0.004318184864845098,"(0.5, sLIN)-DP",0.5,sLIN
+657,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.2,0.25,5,0.8389486289186887,0.004395773347342586,"(0.5, sLIN)-DP",0.5,sLIN
+658,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.2,0.25,10,0.838426445162972,0.003467453768585404,"(0.5, sLIN)-DP",0.5,sLIN
+659,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.2,0.25,20,0.8435552916091839,0.004159672833568276,"(0.5, sLIN)-DP",0.5,sLIN
+660,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.2,0.5,5,0.8265412050591692,0.0043617349582535615,"(0.5, sLIN)-DP",0.5,sLIN
+661,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.2,0.5,10,0.8349867973370968,0.005335438898596404,"(0.5, sLIN)-DP",0.5,sLIN
+662,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.2,0.5,20,0.8372285574381383,0.006090831052146892,"(0.5, sLIN)-DP",0.5,sLIN
+663,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.2,0.5,5,0.8361539678156443,0.005347374661132815,"(0.5, sLIN)-DP",0.5,sLIN
+664,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.2,0.5,10,0.8293665503994845,0.007664330679319348,"(0.5, sLIN)-DP",0.5,sLIN
+665,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.2,0.5,20,0.83210009766896,0.009684642840703259,"(0.5, sLIN)-DP",0.5,sLIN
+666,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.2,0.75,5,0.8329597938879376,0.003641870703654029,"(0.5, sLIN)-DP",0.5,sLIN
+667,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.2,0.75,10,0.8251899527348628,0.005910456201708679,"(0.5, sLIN)-DP",0.5,sLIN
+668,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.2,0.75,20,0.8219341556916409,0.009337736430189213,"(0.5, sLIN)-DP",0.5,sLIN
+669,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.2,0.75,5,0.8343727259146421,0.0059034828635179,"(0.5, sLIN)-DP",0.5,sLIN
+670,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.2,0.75,10,0.8001592166262824,0.014274047944081757,"(0.5, sLIN)-DP",0.5,sLIN
+671,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.2,0.75,20,0.8228250501454095,0.011075972577801551,"(0.5, sLIN)-DP",0.5,sLIN
+672,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.2,0.1,5,0.8117074818422123,0.004127454711777708,"(0.25, sLIN)-DP",0.25,sLIN
+673,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.2,0.1,10,0.8190475974907112,0.005349346523278495,"(0.25, sLIN)-DP",0.25,sLIN
+674,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.2,0.1,20,0.8282301914786945,0.004321490465332714,"(0.25, sLIN)-DP",0.25,sLIN
+675,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.2,0.1,5,0.8340041378215031,0.005283138026210508,"(0.25, sLIN)-DP",0.25,sLIN
+676,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.2,0.1,10,0.8365224568817382,0.004935058784161787,"(0.25, sLIN)-DP",0.25,sLIN
+677,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.2,0.1,20,0.8387643254409722,0.0035103122661752834,"(0.25, sLIN)-DP",0.25,sLIN
+678,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.2,0.25,5,0.8123523223822625,0.0027744018907499193,"(0.25, sLIN)-DP",0.25,sLIN
+679,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.2,0.25,10,0.8362154306016581,0.006022716618025454,"(0.25, sLIN)-DP",0.25,sLIN
+680,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.2,0.25,20,0.8381808203664491,0.0046060398598867834,"(0.25, sLIN)-DP",0.25,sLIN
+681,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.2,0.25,5,0.8390100256866724,0.004664550922443717,"(0.25, sLIN)-DP",0.25,sLIN
+682,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.2,0.25,10,0.8367986904663551,0.005794879819330961,"(0.25, sLIN)-DP",0.25,sLIN
+683,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.2,0.25,20,0.8387950568339789,0.006721786481166758,"(0.25, sLIN)-DP",0.25,sLIN
+684,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.2,0.5,5,0.8253435719753085,0.007011569897200769,"(0.25, sLIN)-DP",0.25,sLIN
+685,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.2,0.5,10,0.8357238462028882,0.0045727956879097085,"(0.25, sLIN)-DP",0.25,sLIN
+686,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.2,0.5,20,0.8332363387004106,0.006217582448701858,"(0.25, sLIN)-DP",0.25,sLIN
+687,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.2,0.5,5,0.8377201512680553,0.004988294521105347,"(0.25, sLIN)-DP",0.25,sLIN
+688,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.2,0.5,10,0.834372414686786,0.0033112307989966584,"(0.25, sLIN)-DP",0.25,sLIN
+689,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.2,0.5,20,0.8256503907701512,0.007024953898053526,"(0.25, sLIN)-DP",0.25,sLIN
+690,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.2,0.75,5,0.8329597938879376,0.003641870703654029,"(0.25, sLIN)-DP",0.25,sLIN
+691,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.2,0.75,10,0.823193553358224,0.005064600329713137,"(0.25, sLIN)-DP",0.25,sLIN
+692,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.2,0.75,20,0.822241526208592,0.018427260463842982,"(0.25, sLIN)-DP",0.25,sLIN
+693,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.2,0.75,5,0.8368600447941764,0.004814796160464757,"(0.25, sLIN)-DP",0.25,sLIN
+694,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.2,0.75,10,0.8089740288842086,0.014586589413986922,"(0.25, sLIN)-DP",0.25,sLIN
+695,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.2,0.75,20,0.8320385971583576,0.008185511100689215,"(0.25, sLIN)-DP",0.25,sLIN
+696,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.2,0.1,5,0.8119531820879127,0.004139876243193163,"(0.1, sLIN)-DP",0.1,sLIN
+697,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.2,0.1,10,0.81867896695741,0.003934638805602295,"(0.1, sLIN)-DP",0.1,sLIN
+698,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.2,0.1,20,0.8307795295819247,0.006598903325264458,"(0.1, sLIN)-DP",0.1,sLIN
+699,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.2,0.1,5,0.8247599537270196,0.0063833118892167254,"(0.1, sLIN)-DP",0.1,sLIN
+700,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.2,0.1,10,0.827493100172741,0.0029142145072850625,"(0.1, sLIN)-DP",0.1,sLIN
+701,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.2,0.1,20,0.8257117309512519,0.0027148209872888693,"(0.1, sLIN)-DP",0.1,sLIN
+702,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.2,0.25,5,0.8145942616751001,0.002787846930502197,"(0.1, sLIN)-DP",0.1,sLIN
+703,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.2,0.25,10,0.8374743944354723,0.004825407258084345,"(0.1, sLIN)-DP",0.1,sLIN
+704,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.2,0.25,20,0.8390407146395169,0.003006548731977489,"(0.1, sLIN)-DP",0.1,sLIN
+705,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.2,0.25,5,0.8326220220681299,0.004182556822214913,"(0.1, sLIN)-DP",0.1,sLIN
+706,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.2,0.25,10,0.8347717483196526,0.004449414673807506,"(0.1, sLIN)-DP",0.1,sLIN
+707,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.2,0.25,20,0.8326220220681299,0.005722437275988044,"(0.1, sLIN)-DP",0.1,sLIN
+708,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.2,0.5,5,0.8250362769075344,0.00546929500588572,"(0.1, sLIN)-DP",0.1,sLIN
+709,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.2,0.5,10,0.8347102855336388,0.005139044382685928,"(0.1, sLIN)-DP",0.1,sLIN
+710,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.2,0.5,20,0.8366454296095014,0.006110086247508354,"(0.1, sLIN)-DP",0.1,sLIN
+711,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.2,0.5,5,0.8284147071572221,0.006459973652627546,"(0.1, sLIN)-DP",0.1,sLIN
+712,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.2,0.5,10,0.8271856589221859,0.00972619328964445,"(0.1, sLIN)-DP",0.1,sLIN
+713,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.2,0.5,20,0.821689275955743,0.017401570566736784,"(0.1, sLIN)-DP",0.1,sLIN
+714,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.2,0.75,5,0.8320691729374363,0.0038035449782153055,"(0.1, sLIN)-DP",0.1,sLIN
+715,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.2,0.75,10,0.8287831019118445,0.005749372066667876,"(0.1, sLIN)-DP",0.1,sLIN
+716,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.2,0.75,20,0.8282611586503803,0.00747000096085703,"(0.1, sLIN)-DP",0.1,sLIN
+717,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.2,0.75,5,0.8342803431126786,0.0026149430409046267,"(0.1, sLIN)-DP",0.1,sLIN
+718,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.2,0.75,10,0.8092496352975396,0.02392290461998046,"(0.1, sLIN)-DP",0.1,sLIN
+719,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.0001535579374097847,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.2,0.75,20,0.8131198008443518,0.015890356405719914,"(0.1, sLIN)-DP",0.1,sLIN
+720,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.25,0.1,5,0.8117074818422123,0.004127454711777708,"(2, sLIN)-DP",2.0,sLIN
+721,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.25,0.1,10,0.819815316447053,0.004021653590139314,"(2, sLIN)-DP",2.0,sLIN
+722,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.25,0.1,20,0.8245448999940018,0.004089381046313443,"(2, sLIN)-DP",2.0,sLIN
+723,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.25,0.1,5,0.8333899343629882,0.006306104445129375,"(2, sLIN)-DP",2.0,sLIN
+724,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.25,0.1,10,0.839900722086351,0.005812303784684623,"(2, sLIN)-DP",2.0,sLIN
+725,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.25,0.1,20,0.8419891128723463,0.004741979650278518,"(2, sLIN)-DP",2.0,sLIN
+726,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.25,0.25,5,0.8134886294317433,0.002278847501302237,"(2, sLIN)-DP",2.0,sLIN
+727,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.25,0.25,10,0.8375358477903388,0.0038822240713606983,"(2, sLIN)-DP",2.0,sLIN
+728,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.25,0.25,20,0.8383344679003362,0.004791393153527619,"(2, sLIN)-DP",2.0,sLIN
+729,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.25,0.25,5,0.83916362134925,0.004428687014045655,"(2, sLIN)-DP",2.0,sLIN
+730,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.25,0.25,10,0.8405763883308793,0.004721063665819722,"(2, sLIN)-DP",2.0,sLIN
+731,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.25,0.25,20,0.8457973865159495,0.006597232905385678,"(2, sLIN)-DP",2.0,sLIN
+732,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.25,0.5,5,0.8264490674670316,0.0042951699604708155,"(2, sLIN)-DP",2.0,sLIN
+733,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.25,0.5,10,0.838180754348419,0.004110863400727548,"(2, sLIN)-DP",2.0,sLIN
+734,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.25,0.5,20,0.8351094918460189,0.005563304157996106,"(2, sLIN)-DP",2.0,sLIN
+735,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.25,0.5,5,0.8394707419408018,0.00462133997415272,"(2, sLIN)-DP",2.0,sLIN
+736,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.25,0.5,10,0.8374743472797365,0.006336915460319956,"(2, sLIN)-DP",2.0,sLIN
+737,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.25,0.5,20,0.8388257599335442,0.006315546114979915,"(2, sLIN)-DP",2.0,sLIN
+738,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.25,0.75,5,0.8336969370652005,0.004278083891839805,"(2, sLIN)-DP",2.0,sLIN
+739,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.25,0.75,10,0.8219654718157713,0.009713604506353325,"(2, sLIN)-DP",2.0,sLIN
+740,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=3, max_splits=3)",0.25,0.75,20,0.8259880871407818,0.009366320726727025,"(2, sLIN)-DP",2.0,sLIN
+741,"DPTopDownTree(dp_epsilon=0.1719785160744032, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.25,0.75,5,0.8347104222852725,0.007083768010837275,"(2, sLIN)-DP",2.0,sLIN
+742,"DPTopDownTree(dp_epsilon=0.12183822732471554, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.25,0.75,10,0.8280152839284576,0.00425392362309704,"(2, sLIN)-DP",2.0,sLIN
+743,"DPTopDownTree(dp_epsilon=0.08626594467809444, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=2, max_depth=10)",0.25,0.75,20,0.8320998524591339,0.0038000646496382812,"(2, sLIN)-DP",2.0,sLIN
+744,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.25,0.1,5,0.8117074818422123,0.004127454711777708,"(1, sLIN)-DP",1.0,sLIN
+745,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.25,0.1,10,0.8199074540391905,0.004305616781960941,"(1, sLIN)-DP",1.0,sLIN
+746,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.25,0.1,20,0.824974955588728,0.005964824462256072,"(1, sLIN)-DP",1.0,sLIN
+747,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.25,0.1,5,0.8346490773885984,0.005811599320669472,"(1, sLIN)-DP",1.0,sLIN
+748,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.25,0.1,10,0.8400542470153249,0.0046948269357270185,"(1, sLIN)-DP",1.0,sLIN
+749,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.25,0.1,20,0.8409755569186708,0.003411896388363761,"(1, sLIN)-DP",1.0,sLIN
+750,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.25,0.25,5,0.8134886294317433,0.002278847501302237,"(1, sLIN)-DP",1.0,sLIN
+751,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.25,0.25,10,0.8376586790508945,0.003737324943128468,"(1, sLIN)-DP",1.0,sLIN
+752,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.25,0.25,20,0.8392557023545046,0.003246063799603881,"(1, sLIN)-DP",1.0,sLIN
+753,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.25,0.25,5,0.8395628842485131,0.004124719413289924,"(1, sLIN)-DP",1.0,sLIN
+754,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.25,0.25,10,0.841374782093345,0.003809405414210327,"(1, sLIN)-DP",1.0,sLIN
+755,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.25,0.25,20,0.8450601490272149,0.004351398390341455,"(1, sLIN)-DP",1.0,sLIN
+756,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.25,0.5,5,0.8274011559191201,0.005398155728199118,"(1, sLIN)-DP",1.0,sLIN
+757,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.25,0.5,10,0.838180754348419,0.004110863400727548,"(1, sLIN)-DP",1.0,sLIN
+758,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.25,0.5,20,0.8353247813577156,0.005558853656384939,"(1, sLIN)-DP",1.0,sLIN
+759,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.25,0.5,5,0.8370446406374551,0.006073378913281743,"(1, sLIN)-DP",1.0,sLIN
+760,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.25,0.5,10,0.83802726242846,0.007784384074535889,"(1, sLIN)-DP",1.0,sLIN
+761,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.25,0.5,20,0.841559014837458,0.00685250705523058,"(1, sLIN)-DP",1.0,sLIN
+762,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.25,0.75,5,0.8331133989816625,0.004896070560442061,"(1, sLIN)-DP",1.0,sLIN
+763,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.25,0.75,10,0.8220268968771963,0.00975832699311997,"(1, sLIN)-DP",1.0,sLIN
+764,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=3, max_splits=3)",0.25,0.75,20,0.8253124208962532,0.010056714557817344,"(1, sLIN)-DP",1.0,sLIN
+765,"DPTopDownTree(dp_epsilon=0.08960717431051154, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.25,0.75,5,0.8311478205939282,0.0027157080453903606,"(1, sLIN)-DP",1.0,sLIN
+766,"DPTopDownTree(dp_epsilon=0.06339555053237805, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.25,0.75,10,0.8296426613791883,0.004597952829783142,"(1, sLIN)-DP",1.0,sLIN
+767,"DPTopDownTree(dp_epsilon=0.044844072289888355, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=1, max_depth=10)",0.25,0.75,20,0.8297041241652019,0.00595247703158803,"(1, sLIN)-DP",1.0,sLIN
+768,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.25,0.1,5,0.8117074818422123,0.004127454711777708,"(0.75, sLIN)-DP",0.75,sLIN
+769,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.25,0.1,10,0.8203067169384534,0.004725003743737045,"(0.75, sLIN)-DP",0.75,sLIN
+770,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.25,0.1,20,0.8245756125247142,0.004084723212137737,"(0.75, sLIN)-DP",0.75,sLIN
+771,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.25,0.1,5,0.8350176984907524,0.00626990088541476,"(0.75, sLIN)-DP",0.75,sLIN
+772,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.25,0.1,10,0.8402077813754459,0.0038367213674912045,"(0.75, sLIN)-DP",0.75,sLIN
+773,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.25,0.1,20,0.8404535004834406,0.004976036641798619,"(0.75, sLIN)-DP",0.75,sLIN
+774,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.25,0.25,5,0.8124444033875171,0.0018113721051485662,"(0.75, sLIN)-DP",0.75,sLIN
+775,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.25,0.25,10,0.8377508355053266,0.0036946980055836093,"(0.75, sLIN)-DP",0.75,sLIN
+776,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.25,0.25,20,0.8395321339932117,0.0035773076058875346,"(0.75, sLIN)-DP",0.75,sLIN
+777,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.25,0.25,5,0.8389793461649748,0.004686563880664577,"(0.75, sLIN)-DP",0.75,sLIN
+778,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.25,0.25,10,0.8414055134863517,0.004965699926246942,"(0.75, sLIN)-DP",0.75,sLIN
+779,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.25,0.25,20,0.8422961863081623,0.00585994577971142,"(0.75, sLIN)-DP",0.75,sLIN
+780,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.25,0.5,5,0.8274011559191201,0.005398155728199118,"(0.75, sLIN)-DP",0.75,sLIN
+781,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.25,0.5,10,0.8382421794098441,0.004038094475246026,"(0.75, sLIN)-DP",0.75,sLIN
+782,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.25,0.5,20,0.835262880023359,0.0064707711645434415,"(0.75, sLIN)-DP",0.75,sLIN
+783,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.25,0.5,5,0.8370751645452243,0.0033980855758215366,"(0.75, sLIN)-DP",0.75,sLIN
+784,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.25,0.5,10,0.8329904639784879,0.006215651389527487,"(0.75, sLIN)-DP",0.75,sLIN
+785,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.25,0.5,20,0.8388565290511398,0.00685475758375638,"(0.75, sLIN)-DP",0.75,sLIN
+786,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.25,0.75,5,0.8336969370652005,0.004278083891839805,"(0.75, sLIN)-DP",0.75,sLIN
+787,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.25,0.75,10,0.8219347640006323,0.009769680034989835,"(0.75, sLIN)-DP",0.75,sLIN
+788,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=3,
+              max_splits=3)",0.25,0.75,20,0.8348027107757646,0.008783830093554249,"(0.75, sLIN)-DP",0.75,sLIN
+789,"DPTopDownTree(dp_epsilon=0.06791944287738548, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.25,0.75,5,0.8347102996803596,0.0018690161983922822,"(0.75, sLIN)-DP",0.75,sLIN
+790,"DPTopDownTree(dp_epsilon=0.04804109707641654, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.25,0.75,10,0.83010355210954,0.006592557979278865,"(0.75, sLIN)-DP",0.75,sLIN
+791,"DPTopDownTree(dp_epsilon=0.033977512569103266, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.75, max_depth=10)",0.25,0.75,20,0.8333589341822876,0.00464471637334146,"(0.75, sLIN)-DP",0.75,sLIN
+792,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.25,0.1,5,0.8117074818422123,0.004127454711777708,"(0.5, sLIN)-DP",0.5,sLIN
+793,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.25,0.1,10,0.8199074540391905,0.004305616781960941,"(0.5, sLIN)-DP",0.5,sLIN
+794,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.25,0.1,20,0.8274318778809796,0.005660010510631072,"(0.5, sLIN)-DP",0.5,sLIN
+795,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.25,0.1,5,0.8332977920552771,0.00525785545787308,"(0.5, sLIN)-DP",0.5,sLIN
+796,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.25,0.1,10,0.8382730522700583,0.006007069530801006,"(0.5, sLIN)-DP",0.5,sLIN
+797,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.25,0.1,20,0.8416512514566407,0.004276133361543345,"(0.5, sLIN)-DP",0.5,sLIN
+798,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.25,0.25,5,0.8134886294317433,0.002278847501302237,"(0.5, sLIN)-DP",0.5,sLIN
+799,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.25,0.25,10,0.8374129976674887,0.003976486006052898,"(0.5, sLIN)-DP",0.5,sLIN
+800,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.25,0.25,20,0.8388257835114123,0.0037321427850363974,"(0.5, sLIN)-DP",0.5,sLIN
+801,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.25,0.25,5,0.8387950568339789,0.004761957665493095,"(0.5, sLIN)-DP",0.5,sLIN
+802,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.25,0.25,10,0.8410984070415208,0.005256059468229431,"(0.5, sLIN)-DP",0.5,sLIN
+803,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.25,0.25,20,0.8443231001614235,0.0037119420938248283,"(0.5, sLIN)-DP",0.5,sLIN
+804,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.25,0.5,5,0.8274011559191201,0.005398155728199118,"(0.5, sLIN)-DP",0.5,sLIN
+805,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.25,0.5,10,0.8383957420634067,0.004290468037692314,"(0.5, sLIN)-DP",0.5,sLIN
+806,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.25,0.5,20,0.8409141695818342,0.004052693996995709,"(0.5, sLIN)-DP",0.5,sLIN
+807,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.25,0.5,5,0.8377201276901876,0.005061379338454918,"(0.5, sLIN)-DP",0.5,sLIN
+808,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.25,0.5,10,0.8356009489243021,0.0058659116861551125,"(0.5, sLIN)-DP",0.5,sLIN
+809,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.25,0.5,20,0.8422960448409549,0.006942946413172746,"(0.5, sLIN)-DP",0.5,sLIN
+810,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.25,0.75,5,0.8331133989816625,0.004896070560442061,"(0.5, sLIN)-DP",0.5,sLIN
+811,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.25,0.75,10,0.8218733389392072,0.009668004715682414,"(0.5, sLIN)-DP",0.5,sLIN
+812,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=3,
+              max_splits=3)",0.25,0.75,20,0.8230702505403105,0.011188731680845837,"(0.5, sLIN)-DP",0.5,sLIN
+813,"DPTopDownTree(dp_epsilon=0.04576557303774289, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.25,0.75,5,0.8359388197711551,0.0036884601279702153,"(0.5, sLIN)-DP",0.5,sLIN
+814,"DPTopDownTree(dp_epsilon=0.032365711765241605, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.25,0.75,10,0.8314242475170619,0.0037260076806552825,"(0.5, sLIN)-DP",0.5,sLIN
+815,"DPTopDownTree(dp_epsilon=0.022888280865175893, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.5, max_depth=10)",0.25,0.75,20,0.8379042897006969,0.0052201441834177405,"(0.5, sLIN)-DP",0.5,sLIN
+816,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.25,0.1,5,0.8117074818422123,0.004127454711777708,"(0.25, sLIN)-DP",0.25,sLIN
+817,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.25,0.1,10,0.8197232684508133,0.00564513317765439,"(0.25, sLIN)-DP",0.25,sLIN
+818,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.25,0.1,20,0.8289060840707547,0.005640027159653213,"(0.25, sLIN)-DP",0.25,sLIN
+819,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.25,0.1,5,0.8362767990762002,0.0056551409964394166,"(0.25, sLIN)-DP",0.25,sLIN
+820,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.25,0.1,10,0.8378123878872381,0.005631513345594661,"(0.25, sLIN)-DP",0.25,sLIN
+821,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.25,0.1,20,0.8391021444165156,0.003583076476037128,"(0.25, sLIN)-DP",0.25,sLIN
+822,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.25,0.25,5,0.8124444033875171,0.0018113721051485662,"(0.25, sLIN)-DP",0.25,sLIN
+823,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.25,0.25,10,0.8349559952104861,0.007577371331312239,"(0.25, sLIN)-DP",0.25,sLIN
+824,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.25,0.25,20,0.8379659269629329,0.004793411599659253,"(0.25, sLIN)-DP",0.25,sLIN
+825,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.25,0.25,5,0.8387643537344136,0.004539138420554634,"(0.25, sLIN)-DP",0.25,sLIN
+826,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.25,0.25,10,0.838119418882892,0.004794871605445529,"(0.25, sLIN)-DP",0.25,sLIN
+827,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.25,0.25,20,0.8409143016178943,0.006096499178936238,"(0.25, sLIN)-DP",0.25,sLIN
+828,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.25,0.5,5,0.8272475932655574,0.005450482024308141,"(0.25, sLIN)-DP",0.25,sLIN
+829,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.25,0.5,10,0.8373209638179698,0.005407332981989793,"(0.25, sLIN)-DP",0.25,sLIN
+830,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.25,0.5,20,0.8339117172949508,0.0068076642187528584,"(0.25, sLIN)-DP",0.25,sLIN
+831,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.25,0.5,5,0.8348641735617784,0.007039340723593665,"(0.25, sLIN)-DP",0.25,sLIN
+832,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.25,0.5,10,0.8323150287970646,0.011354020230995727,"(0.25, sLIN)-DP",0.25,sLIN
+833,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.25,0.5,20,0.8355089480837984,0.009139615316194158,"(0.25, sLIN)-DP",0.25,sLIN
+834,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.25,0.75,5,0.8336969370652005,0.004278083891839805,"(0.25, sLIN)-DP",0.25,sLIN
+835,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.25,0.75,10,0.8244224742727736,0.011352363842345097,"(0.25, sLIN)-DP",0.25,sLIN
+836,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=3,
+              max_splits=3)",0.25,0.75,20,0.8288751593392313,0.008267293165365246,"(0.25, sLIN)-DP",0.25,sLIN
+837,"DPTopDownTree(dp_epsilon=0.02313080019545935, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.25,0.75,5,0.831762127795062,0.005791590507680125,"(0.25, sLIN)-DP",0.25,sLIN
+838,"DPTopDownTree(dp_epsilon=0.016356539958602284, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.25,0.75,10,0.82485214790604,0.013130288984349694,"(0.25, sLIN)-DP",0.25,sLIN
+839,"DPTopDownTree(dp_epsilon=0.011566116374445006, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.25, max_depth=10)",0.25,0.75,20,0.8299191165957633,0.009603518598010619,"(0.25, sLIN)-DP",0.25,sLIN
+840,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.25,0.1,5,0.8125060076407381,0.004928043559738906,"(0.1, sLIN)-DP",0.1,sLIN
+841,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.25,0.1,10,0.8200611062886513,0.00627275177659676,"(0.1, sLIN)-DP",0.1,sLIN
+842,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.25,0.1,20,0.8268176366978762,0.006894004788500468,"(0.1, sLIN)-DP",0.1,sLIN
+843,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.25,0.1,5,0.8313323504191767,0.0076421980502776295,"(0.1, sLIN)-DP",0.1,sLIN
+844,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.25,0.1,10,0.8314550779371139,0.005074945674421144,"(0.1, sLIN)-DP",0.1,sLIN
+845,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.25,0.1,20,0.8360925663320872,0.00534715686158961,"(0.1, sLIN)-DP",0.1,sLIN
+846,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.25,0.25,5,0.8132429291860429,0.001989586267733557,"(0.1, sLIN)-DP",0.1,sLIN
+847,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.25,0.25,10,0.8348026777667495,0.007569246357868506,"(0.1, sLIN)-DP",0.1,sLIN
+848,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.25,0.25,20,0.8388872274351316,0.004387391347366442,"(0.1, sLIN)-DP",0.1,sLIN
+849,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.25,0.25,5,0.8355089339370776,0.005694063868497357,"(0.1, sLIN)-DP",0.1,sLIN
+850,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.25,0.25,10,0.8367680722471142,0.0040527562969893075,"(0.1, sLIN)-DP",0.1,sLIN
+851,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.25,0.25,20,0.8377816895032464,0.005292773821320905,"(0.1, sLIN)-DP",0.1,sLIN
+852,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.25,0.5,5,0.8278924432367546,0.004197196188612293,"(0.1, sLIN)-DP",0.1,sLIN
+853,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.25,0.5,10,0.836491730204305,0.004754348309705078,"(0.1, sLIN)-DP",0.1,sLIN
+854,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.25,0.5,20,0.8336659557467941,0.005808150242763686,"(0.1, sLIN)-DP",0.1,sLIN
+855,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.25,0.5,5,0.8367065858832327,0.0034749738870149846,"(0.1, sLIN)-DP",0.1,sLIN
+856,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.25,0.5,10,0.8215039161895449,0.016237773809855995,"(0.1, sLIN)-DP",0.1,sLIN
+857,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.25,0.5,20,0.8367375860639333,0.007320305595240941,"(0.1, sLIN)-DP",0.1,sLIN
+858,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.25,0.75,5,0.8336969370652005,0.004278083891839805,"(0.1, sLIN)-DP",0.1,sLIN
+859,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.25,0.75,10,0.8289062444002564,0.010141459861786922,"(0.1, sLIN)-DP",0.1,sLIN
+860,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=3,
+              max_splits=3)",0.25,0.75,20,0.8299809189030747,0.005411214551414756,"(0.1, sLIN)-DP",0.1,sLIN
+861,"DPTopDownTree(dp_epsilon=0.009312825600133261, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.25,0.75,5,0.8356010951070832,0.004186913569068727,"(0.1, sLIN)-DP",0.1,sLIN
+862,"DPTopDownTree(dp_epsilon=0.006585201116700442, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.25,0.75,10,0.8187403401475258,0.024593334812560312,"(0.1, sLIN)-DP",0.1,sLIN
+863,"DPTopDownTree(dp_epsilon=0.004656459826856417, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.1, max_depth=10)",0.25,0.75,20,0.8288133381696255,0.007661401268912893,"(0.1, sLIN)-DP",0.1,sLIN
+864,"DPTopDownTree(dp_epsilon=0.004, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.02, max_depth=3, max_splits=3)",0.25,0.25,5,0.8160377506185889,0.005795303070494947,"(0.02, 0)-DP",0.02,0
+865,"DPTopDownTree(dp_epsilon=0.002, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.02, max_depth=3, max_splits=3)",0.25,0.25,10,0.835693095947587,0.0037120693681669654,"(0.02, 0)-DP",0.02,0
+866,"DPTopDownTree(dp_epsilon=0.001, dp_zeta=0.00012284634992782776,
+              global_epsilon=0.02, max_depth=3, max_splits=3)",0.25,0.25,20,0.8331747485939104,0.0039799495987356106,"(0.02, 0)-DP",0.02,0
+877,"DPTopDownTree(dp_epsilon=0.0018690799036007724, dp_zeta=0.00012284634992782776,
+              global_delta='sLIN', global_epsilon=0.02, max_depth=3,
+              max_splits=3)",0.25,0.25,5,0.8181262027070411,0.00655092613439057,"(0.02, sLIN)-DP",0.02,sLIN
+878,"DPTopDownTree(dp_epsilon=0.0013216393904237024, dp_zeta=0.00012284634992782776,
+                            global_delta='sLIN', global_epsilon=0.02, max_depth=3,
+                            max_splits=3)",0.25,0.25,10,0.8283838625904494,0.0042161334611681735,"(0.02, sLIN)-DP",0.02,sLIN
+879,"DPTopDownTree(dp_epsilon=0.0009345403332068786, dp_zeta=0.00012284634992782776,
+                            global_delta='sLIN', global_epsilon=0.02, max_depth=3,
+                            max_splits=3)",0.25,0.25,20,0.8314856348538984,0.005507206385062003,"(0.02, sLIN)-DP",0.02,sLIN
